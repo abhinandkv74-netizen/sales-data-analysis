@@ -1,0 +1,1227 @@
+Invoice_ID,Date,Store,Product,Category,Unit_Price,Quantity,Discount_Pct,Payment_Mode,Customer_Type,Rating,Total_Amount
+INV10001,2025-10-15,Thrissur,Floor Cleaner 1L,Household,175.0,3,0,UPI,Regular,5.0,525.0
+INV10003,2025-07-17,Thiruvananthapuram,Toothpaste 150g,Personal Care,95.0,4,15,Cash,Regular,4.0,323.0
+INV10008,2025-03-04,Thiruvananthapuram,Toothpaste 150g,Personal Care,95.0,2,0,UPI,Regular,1.0,190.0
+INV10009,2025-03-28,Thiruvananthapuram,Banana (Nendran) 1kg,Fruits & Veg,60.0,7,0,UPI,Wholesale,2.0,420.0
+INV10010,2025-04-07,Thrissur,Biscuits Pack,Snacks,25.0,1,15,UPI,New,5.0,21.25
+INV10011,2025-09-15,Kannur,Banana Chips 250g,Snacks,80.0,5,10,Cash,Regular,2.0,360.0
+INV10012,2025-12-18,Kozhikode,Paneer 200g,Dairy,95.0,4,5,Cash,New,1.0,361.0
+INV10013,2025-07-08,Kozhikode,Biscuits Pack,Snacks,25.0,5,0,Cash,New,2.0,125.0
+INV10014,2025-02-01,Kozhikode,Curd 400g,Dairy,35.0,6,15,UPI,Regular,1.0,178.5
+INV10015,2025-02-07,Kozhikode,Curd 400g,Dairy,35.0,5,15,Cash,Regular,3.0,148.75
+INV10016,2025-09-20,Kozhikode,Curd 400g,Dairy,35.0,5,0,Cash,New,1.0,175.0
+INV10017,2025-08-01,Thrissur,Rice - Matta 5kg,Grocery,285.0,6,0,UPI,Wholesale,3.0,1710.0
+INV10019,2025-07-05,Thrissur,Milk 500ml,Dairy,30.0,6,0,UPI,New,1.0,180.0
+INV10020,2025-02-26,Kochi,Sugar 1kg,Grocery,48.0,3,15,Cash,New,3.0,122.4
+INV10021,2025-04-05,Kochi,Sugar 1kg,Grocery,48.0,2,10,UPI,New,1.0,86.4
+INV10023,2025-03-31,KOCHI,Biscuits Pack,Snacks,25.0,5,0,UPI,Regular,5.0,125.0
+INV10025,2025-12-09,Thrissur,Banana Chips 250g,Snacks,80.0,1,5,UPI,New,2.0,76.0
+INV10027,2025-04-16,Thiruvananthapuram,Butter 100g,Dairy,58.0,7,0,Cash,Regular,2.0,406.0
+INV10028,2025-02-07,Kozhikode,Milk 500ml,Dairy,30.0,6,0,UPI,Regular,5.0,180.0
+INV10030,2025-08-20,Kozhikode,Rice - Jeerakasala 1kg,Grocery,140.0,2,0,Cash,Regular,1.0,280.0
+INV10031,2025-02-06,Thiruvananthapuram,Murukku 200g,Snacks,65.0,1,10,Cash,Regular,5.0,58.5
+INV10034,2025-08-08,Thrissur,Mixture 250g,Snacks,70.0,4,10,UPI,Regular,3.0,252.0
+INV10035,2025-04-23,Thrissur,Milk 500ml,Dairy,30.0,6,5,UPI,Regular,4.0,171.0
+INV10036,2025-09-30,KOCHI,Paneer 200g,Dairy,95.0,4,10,UPI,New,2.0,342.0
+INV10038,2025-11-02,Kochi,Banana (Nendran) 1kg,Fruits & Veg,60.0,5,15,UPI,Regular,1.0,255.0
+INV10039,2025-03-30,Kochi,Curd 400g,Dairy,35.0,7,5,UPI,Regular,3.0,232.75
+INV10040,2025-08-02,Kochi,Banana (Nendran) 1kg,Fruits & Veg,60.0,4,0,Card,New,3.0,240.0
+INV10041,2025-11-07,Thrissur,Banana (Nendran) 1kg,Fruits & Veg,60.0,5,15,UPI,Regular,2.0,255.0
+INV10043,2025-07-17,Kozhikode,Paneer 200g,Dairy,95.0,3,10,UPI,Regular,5.0,256.5
+INV10044,2025-06-07,Kozhikode,Packaged Juice 1L,Beverages,110.0,6,5,Cash,New,4.0,627.0
+INV10045,2025-09-02,Kozhikode,Banana Chips 250g,Snacks,80.0,4,0,UPI,Regular,4.0,320.0
+INV10046,2025-09-10,Thiruvananthapuram,Soap,Personal Care,38.0,7,15,UPI,New,4.0,226.1
+INV10048,07/01/2025,Kochi,Dishwash Liquid,Household,99.0,5,0,UPI,Regular,2.0,495.0
+INV10049,2025-04-05,Kannur,Biscuits Pack,Snacks,25.0,3,10,Card,Regular,4.0,67.5
+INV10050,26/04/2025,Kannur,Detergent 1kg,Household,130.0,5,0,Cash,New,1.0,650.0
+INV10053,2025-08-26,Thiruvananthapuram,Mixture 250g,Snacks,70.0,6,0,UPI,Regular,3.0,420.0
+INV10056,2025-04-13,Kozhikode,Coconut Oil 1L,Grocery,240.0,3,5,Cash,Regular,4.0,684.0
+INV10057,2025-02-10,Thrissur,Detergent 1kg,Household,130.0,6,0,Cash,Regular,3.0,780.0
+INV10060,2025-03-22,Thrissur,Packaged Juice 1L,Beverages,110.0,1,5,UPI,Regular,1.0,104.5
+INV10062,2025-04-08,Thiruvananthapuram,Coconut Oil 1L,Grocery,240.0,1,15,Cash,Regular,5.0,204.0
+INV10064,2025-12-23,Kochi,Dishwash Liquid,Household,99.0,6,10,UPI,Regular,1.0,534.6
+INV10065,2025-04-16,Kochi,Curd 400g,Dairy,35.0,1,5,Cash,Regular,2.0,33.25
+INV10066,2025-09-07,Kozhikode,Packaged Juice 1L,Beverages,110.0,1,5,UPI,Regular,3.0,104.5
+INV10067,2025-11-08,Kozhikode,Murukku 200g,Snacks,65.0,6,10,UPI,New,5.0,351.0
+INV10068,2025-04-29,Kozhikode,Milk 500ml,Dairy,30.0,4,0,UPI,New,3.0,120.0
+INV10070,2025-09-30,Kochi,Mango 1kg,Fruits & Veg,90.0,5,15,Cash,Regular,5.0,382.5
+INV10074,2025-11-03,Thrissur,Packaged Juice 1L,Beverages,110.0,7,15,UPI,Regular,2.0,654.5
+INV10077,2025-04-20,Thiruvananthapuram,Packaged Juice 1L,Beverages,110.0,4,0,Cash,Regular,3.0,440.0
+INV10078,2025-05-07,Thrissur,Paneer 200g,Dairy,95.0,7,0,UPI,Regular,2.0,665.0
+INV10079,2025-08-15, Kozhikode ,Onion 1kg,Fruits & Veg,45.0,7,15,Cash,New,4.0,267.75
+INV10082,2025-08-21,Thiruvananthapuram,Atta 5kg,Grocery,260.0,2,5,Cash,Regular,1.0,494.0
+INV10084,2025-09-17,Kozhikode,Butter 100g,Dairy,58.0,2,0,Card,New,2.0,116.0
+INV10085,2025-09-30,KOCHI,Rice - Matta 5kg,Grocery,285.0,2,5,UPI,Wholesale,2.0,541.5
+INV10086,2025-12-23,Kochi,Rice - Matta 5kg,Grocery,285.0,3,0,Card,Regular,5.0,855.0
+INV10089,2025-04-22,Kozhikode,Coconut Oil 1L,Grocery,240.0,3,15,Cash,Regular,4.0,612.0
+INV10090,2025-09-13,Kochi,Tomato 1kg,Fruits & Veg,40.0,2,0,UPI,New,1.0,80.0
+INV10091,2025-03-10,Thrissur,Tea Powder 500g,Grocery,190.0,2,10,Cash,Wholesale,2.0,342.0
+INV10092,2025-05-06,Kochi,Banana (Nendran) 1kg,Fruits & Veg,60.0,7,5,UPI,Regular,5.0,399.0
+INV10094,2025-03-06,Kozhikode,Banana (Nendran) 1kg,Fruits & Veg,60.0,2,0,Cash,New,4.0,120.0
+INV10097,2025-06-04,Kozhikode,Banana (Nendran) 1kg,Fruits & Veg,60.0,7,5,UPI,New,3.0,399.0
+INV10100,2025-11-07,Thrissur,Curd 400g,Dairy,35.0,7,0,UPI,Regular,3.0,245.0
+INV10101,2025-12-04,Thiruvananthapuram,Tea Powder 500g,Grocery,190.0,6,5,UPI,Regular,1.0,1083.0
+INV10102,2025-04-30,Kozhikode,Rice - Matta 5kg,Grocery,285.0,2,0,UPI,Regular,1.0,570.0
+INV10107,2025-07-07,Thrissur,Mixture 250g,Snacks,70.0,6,0,UPI,Wholesale,4.0,420.0
+INV10108,2025-04-22,Kozhikode,Sugar 1kg,Grocery,48.0,1,0,UPI,Regular,2.0,48.0
+INV10109,2025-02-02,Kochi,Curd 400g,Dairy,35.0,4,0,UPI,Regular,1.0,140.0
+INV10112,2025-12-10,Kozhikode,Sugar 1kg,Grocery,48.0,2,10,UPI,Regular,4.0,86.4
+INV10113,2025-07-27,Thiruvananthapuram,Biscuits Pack,Snacks,25.0,1,10,Cash,Regular,4.0,22.5
+INV10116,2025-01-11,Kochi,Onion 1kg,Fruits & Veg,45.0,4,5,Card,New,1.0,171.0
+INV10118,2025-12-08,Thrissur,Packaged Juice 1L,Beverages,110.0,5,0,UPI,Regular,2.0,550.0
+INV10119,2025-12-07,Thrissur,Milk 500ml,Dairy,30.0,-1,5,Card,New,1.0,114.0
+INV10123,2025-09-25,Thrissur,Dishwash Liquid,Household,99.0,6,5,UPI,Wholesale,4.0,564.3
+INV10124,2025-01-27,Kannur,Tea Powder 500g,Grocery,190.0,2,10,UPI,Regular,4.0,342.0
+INV10125,2025-02-18,Thrissur,Floor Cleaner 1L,Household,175.0,7,0,UPI,Regular,2.0,1225.0
+INV10129,2025-07-08,Kochi,Shampoo 180ml,Personal Care,150.0,2,0,UPI,Regular,3.0,300.0
+INV10139,2025-07-04,Thiruvananthapuram,Detergent 1kg,Household,130.0,2,10,UPI,New,1.0,234.0
+INV10141,2025-04-08,Thiruvananthapuram,Banana (Nendran) 1kg,Fruits & Veg,60.0,3,10,UPI,Regular,3.0,162.0
+INV10143,2025-05-02,Kannur,Murukku 200g,Snacks,65.0,3,0,Cash,New,2.0,195.0
+INV10144,2025-04-13,Kozhikode,Onion 1kg,Fruits & Veg,45.0,3,10,UPI,Wholesale,4.0,121.5
+INV10145,17/02/2025,Thrissur,Coconut Oil 1L,Grocery,240.0,2,0,UPI,Regular,2.0,480.0
+INV10146,2025-02-25,Kochi,Mango 1kg,Fruits & Veg,90.0,4,5,UPI,New,5.0,342.0
+INV10148,2025-10-06,Kozhikode,Rice - Matta 5kg,Grocery,285.0,4,15,UPI,Regular,4.0,969.0
+INV10149,2025-04-02,Kannur,Mango 1kg,Fruits & Veg,90.0,5,0,Cash,Regular,2.0,450.0
+INV10152,2025-12-30,Kannur,Mango 1kg,Fruits & Veg,90.0,2,10,UPI,Regular,2.0,162.0
+INV10153,2025-06-27,Thiruvananthapuram,Curd 400g,Dairy,35.0,3,15,UPI,Wholesale,1.0,89.25
+INV10154,2025-08-26,Thiruvananthapuram,Curd 400g,Dairy,35.0,4,5,Cash,New,2.0,133.0
+INV10156,2025-09-23,Kannur,Butter 100g,Dairy,58.0,2,0,upi,New,5.0,116.0
+INV10157,2025-05-21,Kochi,Detergent 1kg,Household,130.0,1,10,UPI,New,1.0,117.0
+INV10161,2025-05-05,Kochi,Onion 1kg,Fruits & Veg,45.0,6,10,Cash,Regular,5.0,243.0
+INV10163,2025-03-04,Kochi,Murukku 200g,Snacks,65.0,3,15,UPI,Regular,5.0,165.75
+INV10165,2025-09-24,Kozhikode,Detergent 1kg,Household,130.0,4,5,Cash,New,1.0,494.0
+INV10169,2025-11-19,Kochi,Curd 400g,Dairy,35.0,7,5,Cash,Regular,5.0,232.75
+INV10171,2025-04-27,THRISSUR,Coconut Oil 1L,Grocery,240.0,1,0,Cash,New,2.0,240.0
+INV10174,2025-02-26,Kannur,Soap,Personal Care,38.0,6,10,Cash,Wholesale,2.0,205.2
+INV10175,2025-07-05,Thiruvananthapuram,Coffee Powder 200g,Beverages,160.0,7,0,Cash,New,5.0,1120.0
+INV10177,2025-03-15,KOZHIKODE,Toothpaste 150g,Personal Care,95.0,6,10,upi,New,1.0,513.0
+INV10181,2025-10-10,Kannur,Paneer 200g,Dairy,95.0,6,0,UPI,New,1.0,570.0
+INV10183,2025-02-05,Kozhikode,Floor Cleaner 1L,Household,175.0,1,10,UPI,Regular,3.0,157.5
+INV10187,2025-01-20,Kozhikode,Rice - Jeerakasala 1kg,Grocery,140.0,4,0,Cash,Regular,2.0,560.0
+INV10189,2025-10-28,Thiruvananthapuram,Rice - Jeerakasala 1kg,Grocery,140.0,1,10,UPI,New,1.0,126.0
+INV10190,2025-09-04,KANNUR,Packaged Juice 1L,Beverages,110.0,7,10,UPI,New,2.0,693.0
+INV10191,2025-11-26,Kannur,Soft Drink 2L,Beverages,95.0,-1,15,Cash,Regular,2.0,80.75
+INV10193,2025-03-29,Thrissur,Banana Chips 250g,Snacks,80.0,1,0,UPI,Regular,4.0,80.0
+INV10199,2025-04-01,Thiruvananthapuram,Rice - Jeerakasala 1kg,Grocery,140.0,7,5,Card,Regular,2.0,931.0
+INV10202,2025-06-23,Thrissur,Murukku 200g,Snacks,65.0,4,15,UPI,Regular,5.0,221.0
+INV10203,2025-11-09,Kozhikode,Mixture 250g,Snacks,70.0,6,5,UPI,Regular,5.0,399.0
+INV10207,2025-03-08,Thrissur,Dishwash Liquid,Household,99.0,7,0,Cash,New,2.0,693.0
+INV10208,26/08/2025,Kozhikode,Banana Chips 250g,Snacks,80.0,5,15,UPI,New,2.0,340.0
+INV10209,2025-08-17,Kozhikode,Murukku 200g,Snacks,65.0,6,0,UPI,Regular,2.0,390.0
+INV10210,2025-09-10,Thrissur,Onion 1kg,Fruits & Veg,45.0,6,0,upi,New,5.0,270.0
+INV10213,2025-08-06,Thiruvananthapuram,Banana Chips 250g,Snacks,80.0,7,10,UPI,Regular,5.0,504.0
+INV10216,2025-02-24,Thiruvananthapuram,Murukku 200g,Snacks,65.0,3,15,UPI,New,4.0,165.75
+INV10221,2025-07-16,Kannur,Rice - Matta 5kg,Grocery,285.0,3,0,UPI,Regular,1.0,855.0
+INV10226,2025-01-14,Thrissur,Soap,Personal Care,38.0,6,15,UPI,Wholesale,3.0,193.8
+INV10232,2025-02-08,Thrissur,Butter 100g,Dairy,58.0,7,5,Cash,Regular,2.0,385.7
+INV10234,2025-07-28,Thrissur,Tomato 1kg,Fruits & Veg,40.0,5,5,UPI,Regular,4.0,190.0
+INV10236,2025-10-07,Kannur,Milk 500ml,Dairy,30.0,6,15,Card,Regular,4.0,153.0
+INV10241,2025-12-01,Thrissur,Tea Powder 500g,Grocery,190.0,5,5,Cash,New,5.0,902.5
+INV10242,2025-05-14,Kochi,Banana Chips 250g,Snacks,80.0,5,15,Cash,Wholesale,5.0,340.0
+INV10243,2025-09-10,Thrissur,Dishwash Liquid,Household,99.0,4,5,Cash,Regular,5.0,376.2
+INV10245,2025-10-02,Kozhikode,Sugar 1kg,Grocery,48.0,1,10,Cash,Regular,4.0,43.2
+INV10248,2025-10-24,Thrissur,Tea Powder 500g,Grocery,190.0,4,0,Card,Regular,4.0,760.0
+INV10251,2025-09-19,Kannur,Banana (Nendran) 1kg,Fruits & Veg,60.0,5,0,Card,New,2.0,300.0
+INV10254,2025-06-04,Kozhikode,Rice - Matta 5kg,Grocery,285.0,4,0,Card,Regular,3.0,1140.0
+INV10255,2025-02-03,Thrissur,Sugar 1kg,Grocery,48.0,1,5,UPI,Regular,5.0,45.6
+INV10258,2025-05-01,Kochi,Rice - Matta 5kg,Grocery,285.0,7,15,UPI,Regular,5.0,1695.75
+INV10259,2025-02-12,Thrissur,Dishwash Liquid,Household,99.0,4,0,UPI,Wholesale,3.0,396.0
+INV10260,2025-09-28,Kozhikode,Murukku 200g,Snacks,65.0,7,0,UPI,Regular,5.0,455.0
+INV10261,2025-03-28,Thrissur,Paneer 200g,Dairy,95.0,2,0,Cash,Regular,2.0,190.0
+INV10262,2025-04-16,Thiruvananthapuram,Shampoo 180ml,Personal Care,150.0,3,0,Cash,New,5.0,450.0
+INV10263,2025-12-02,Kochi,Mango 1kg,Fruits & Veg,90.0,7,15,upi,Regular,2.0,535.5
+INV10264,2025-11-01,Thrissur,Soft Drink 2L,Beverages,95.0,2,5,UPI,Regular,4.0,180.5
+INV10265,2025-12-24,Thiruvananthapuram,Biscuits Pack,Snacks,25.0,5,0,UPI,Regular,5.0,125.0
+INV10266,2025-12-08,Thrissur,Shampoo 180ml,Personal Care,150.0,2,10,UPI,New,3.0,270.0
+INV10272,2025-09-17,Thrissur,Rice - Jeerakasala 1kg,Grocery,140.0,4,0,Card,Regular,2.0,560.0
+INV10277,2025-03-12,Thrissur,Dishwash Liquid,Household,99.0,6,0,UPI,Regular,5.0,594.0
+INV10278,2025-03-04,Kozhikode,Packaged Juice 1L,Beverages,110.0,2,0,Card,Wholesale,1.0,220.0
+INV10279,2025-01-09,Thrissur,Murukku 200g,Snacks,65.0,3,15,Cash,Regular,3.0,165.75
+INV10283,2025-12-18,Kannur,Dishwash Liquid,Household,99.0,1,0,UPI,New,2.0,99.0
+INV10284,2025-04-27,Kochi,Banana (Nendran) 1kg,Fruits & Veg,60.0,4,15,UPI,Regular,5.0,204.0
+INV10285,2025-09-19,Kannur,Mixture 250g,Snacks,70.0,4,0,UPI,Regular,5.0,280.0
+INV10286,2025-12-25,Thiruvananthapuram,Mixture 250g,Snacks,70.0,3,0,Cash,Regular,5.0,210.0
+INV10288,2025-02-10,Thiruvananthapuram,Mango 1kg,Fruits & Veg,90.0,7,10,Cash,New,5.0,567.0
+INV10291,12/05/2025,Thiruvananthapuram,Packaged Juice 1L,Beverages,110.0,3,0,UPI,New,4.0,330.0
+INV10292,2025-09-27,THRISSUR,Onion 1kg,Fruits & Veg,45.0,6,5,cash,Regular,3.0,256.5
+INV10296,2025-02-23,Thrissur,Banana Chips 250g,Snacks,80.0,4,0,Cash,New,3.0,320.0
+INV10297,2025-09-27,Thrissur,Floor Cleaner 1L,Household,175.0,5,15,UPI,Regular,4.0,743.75
+INV10298,2025-11-24,Kannur,Tea Powder 500g,Grocery,190.0,7,15,Cash,Regular,4.0,1130.5
+INV10300,2025-09-22,Kannur,Atta 5kg,Grocery,260.0,2,0,UPI,Regular,2.0,520.0
+INV10301,2025-03-26,Kannur,Murukku 200g,Snacks,65.0,1,0,Card,Wholesale,4.0,65.0
+INV10302,13/06/2025,Kochi,Tea Powder 500g,Grocery,190.0,5,10,UPI,Regular,4.0,855.0
+INV10304,2025-10-14,Kochi,Detergent 1kg,Household,130.0,1,0,Cash,Regular,3.0,130.0
+INV10307,2025-06-09,Thrissur,Milk 500ml,Dairy,30.0,5,10,UPI,Regular,3.0,135.0
+INV10309,2025-09-27,Thrissur,Coconut Oil 1L,Grocery,240.0,1,0,UPI,New,3.0,240.0
+INV10311,2025-10-20,Kochi,Mixture 250g,Snacks,70.0,3,10,Cash,Regular,5.0,189.0
+INV10314,2025-02-08,Cochin,Detergent 1kg,Household,130.0,3,0,UPI,Regular,1.0,390.0
+INV10315,2025-08-29,Thiruvananthapuram,Biscuits Pack,Snacks,25.0,4,5,UPI,Regular,5.0,95.0
+INV10316,2025-10-08,Thiruvananthapuram,Floor Cleaner 1L,Household,175.0,5,0,UPI,Regular,2.0,875.0
+INV10318,2025-10-04,KOCHI,Mango 1kg,Fruits & Veg,90.0,4,15,UPI,Regular,4.0,306.0
+INV10319,2025-01-03,Kochi,Soap,Personal Care,38.0,1,0,UPI,Regular,1.0,38.0
+INV10322,2025-08-02,Thiruvananthapuram,Mixture 250g,Snacks,70.0,7,0,Cash,New,2.0,490.0
+INV10323,2025-11-20,Kochi,Rice - Matta 5kg,Grocery,285.0,4,0,Cash,Regular,3.0,1140.0
+INV10324,2025-04-22,Thiruvananthapuram,Biscuits Pack,Snacks,25.0,7,10,UPI,Regular,1.0,157.5
+INV10325,2025-04-18,THRISSUR,Detergent 1kg,Household,130.0,4,5,UPI,New,1.0,494.0
+INV10327,2025-08-21,Kochi,Curd 400g,Dairy,35.0,7,5,UPI,Regular,5.0,232.75
+INV10329,2025-03-31,Kozhikode,Mango 1kg,Fruits & Veg,90.0,5,10,UPI,Regular,3.0,405.0
+INV10331,2025-12-31,Kozhikode,Sugar 1kg,Grocery,48.0,3,10,Cash,Regular,4.0,129.6
+INV10333,2025-07-07,Kannur,Banana Chips 250g,Snacks,80.0,4,0,UPI,Regular,2.0,320.0
+INV10334,2025-02-18,KOCHI,Mango 1kg,Fruits & Veg,90.0,3,5,Cash,New,2.0,256.5
+INV10335,29/09/2025,Thiruvananthapuram,Soft Drink 2L,Beverages,95.0,3,0,Cash,Regular,4.0,285.0
+INV10345,2025-09-01,Kochi,Sugar 1kg,Grocery,48.0,5,5,Cash,New,2.0,228.0
+INV10347,2025-01-07,Kozhikode,Curd 400g,Dairy,35.0,7,5,UPI,Regular,5.0,232.75
+INV10348,2025-07-27, Kochi ,Soft Drink 2L,Beverages,95.0,1,0,UPI,Wholesale,3.0,95.0
+INV10349,03/02/2025,Thrissur,Rice - Jeerakasala 1kg,Grocery,140.0,6,15,UPI,New,1.0,714.0
+INV10350,2025-09-26,Kannur,Atta 5kg,Grocery,260.0,2,0,Cash,Regular,5.0,520.0
+INV10351,2025-03-06,Kannur,Butter 100g,Dairy,58.0,7,15,Card,Regular,2.0,345.1
+INV10352,2025-03-07,Kozhikode,Tomato 1kg,Fruits & Veg,40.0,1,0,UPI,New,1.0,40.0
+INV10356,2025-08-05,Kozhikode,Dishwash Liquid,Household,99.0,1,0,Cash,Regular,2.0,99.0
+INV10358,2025-09-26,Kochi,Tea Powder 500g,Grocery,190.0,4,5,Card,New,2.0,722.0
+INV10361,2025-06-08,Kozhikode,Banana (Nendran) 1kg,Fruits & Veg,60.0,4,0,UPI,Regular,4.0,240.0
+INV10362,02/03/2025,Thiruvananthapuram,Mango 1kg,Fruits & Veg,90.0,5,5,Cash,Regular,2.0,427.5
+INV10363,2025-12-14,Kochi,Detergent 1kg,Household,130.0,4,0,Cash,New,5.0,520.0
+INV10366,2025-08-07,Kannur,Mixture 250g,Snacks,70.0,1,15,Card,New,1.0,59.5
+INV10369,2025-04-27,Thiruvananthapuram,Onion 1kg,Fruits & Veg,45.0,3,15,Cash,Regular,3.0,114.75
+INV10370,2025-03-29,Kozhikode,Mixture 250g,Snacks,70.0,1,0,UPI,New,4.0,70.0
+INV10374,2025-09-14,Thrissur,Paneer 200g,Dairy,95.0,1,5,UPI,Regular,2.0,90.25
+INV10375,2025-08-25,Kozhikode,Curd 400g,Dairy,35.0,6,15,UPI,Regular,5.0,178.5
+INV10377,2025-02-22,Thiruvananthapuram,Banana Chips 250g,Snacks,80.0,4,15,Cash,Regular,1.0,272.0
+INV10378,2025-12-07,Kannur,Mixture 250g,Snacks,70.0,7,15,Cash,New,3.0,416.5
+INV10379,2025-05-02,KOZHIKODE,Detergent 1kg,Household,130.0,3,0,UPI,New,3.0,390.0
+INV10385,2025-06-21,Thrissur,Dishwash Liquid,Household,99.0,6,5,Cash,Wholesale,4.0,564.3
+INV10388,2025-11-22,Kochi,Onion 1kg,Fruits & Veg,45.0,5,10,Cash,Regular,3.0,202.5
+INV10391,2025-08-14,Thrissur,Atta 5kg,Grocery,260.0,1,0,Cash,New,4.0,260.0
+INV10392,2025-08-26,Kochi,Floor Cleaner 1L,Household,175.0,7,0,Cash,Wholesale,4.0,1225.0
+INV10394,2025-06-05,Kozhikode,Atta 5kg,Grocery,260.0,4,0,Cash,Regular,5.0,1040.0
+INV10395,2025-09-22,Kannur,Toothpaste 150g,Personal Care,95.0,2,0,cash,Regular,2.0,190.0
+INV10396,2025-04-22,Kochi,Coconut Oil 1L,Grocery,240.0,3,5,UPI,Wholesale,1.0,684.0
+INV10400,2025-07-01,Thiruvananthapuram,Curd 400g,Dairy,35.0,500,15,Cash,Regular,2.0,119.0
+INV10401,2025-08-07,Thiruvananthapuram,Tea Powder 500g,Grocery,190.0,7,10,UPI,Wholesale,3.0,1197.0
+INV10402,2025-12-17,Thrissur,Murukku 200g,Snacks,65.0,2,5,Cash,Regular,2.0,123.5
+INV10403,2025-03-27,Thrissur,Paneer 200g,Dairy,95.0,5,0,UPI,New,2.0,475.0
+INV10404,2025-12-18,Thrissur,Packaged Juice 1L,Beverages,110.0,2,5,UPI,Wholesale,5.0,209.0
+INV10405,18/09/2025,Kochi,Banana (Nendran) 1kg,Fruits & Veg,60.0,6,0,Cash,New,3.0,360.0
+INV10406,2025-09-26,Kochi,Packaged Juice 1L,Beverages,110.0,2,0,UPI,Regular,3.0,220.0
+INV10408,2025-11-30,Kochi,Shampoo 180ml,Personal Care,150.0,4,5,UPI,New,5.0,570.0
+INV10409,07/06/2025,Thrissur,Tea Powder 500g,Grocery,190.0,3,15,Card,Wholesale,4.0,484.5
+INV10412,2025-09-14,Kochi,Onion 1kg,Fruits & Veg,45.0,1,15,Cash,New,4.0,38.25
+INV10414,2025-04-24, Thiruvananthapuram ,Coffee Powder 200g,Beverages,160.0,1,0,UPI,Regular,1.0,160.0
+INV10416,2025-08-01, Thrissur ,Packaged Juice 1L,Beverages,110.0,7,0,UPI,Regular,3.0,770.0
+INV10417,2025-12-17,Thrissur,Soap,Personal Care,38.0,2,5,Cash,Wholesale,5.0,72.2
+INV10418,2025-08-23,Thrissur,Coconut Oil 1L,Grocery,240.0,1,15,Card,Regular,4.0,204.0
+INV10423,2025-09-30,Calicut,Mango 1kg,Fruits & Veg,90.0,7,5,Cash,Regular,4.0,598.5
+INV10430,2025-05-08,Kannur,Paneer 200g,Dairy,95.0,3,15,UPI,Regular,4.0,242.25
+INV10435,2025-07-10,Thrissur,Banana (Nendran) 1kg,Fruits & Veg,60.0,5,0,UPI,Wholesale,2.0,300.0
+INV10437,2025-05-31,Kannur,Atta 5kg,Grocery,260.0,3,0,UPI,Regular,1.0,780.0
+INV10438,2025-07-22,Thiruvananthapuram,Murukku 200g,Snacks,65.0,3,5,UPI,Regular,5.0,185.25
+INV10439,2025-09-27,Kozhikode,Rice - Jeerakasala 1kg,Grocery,140.0,1,0,Cash,New,2.0,140.0
+INV10440,2025-07-19,Kochi,Tea Powder 500g,Grocery,190.0,1,0,UPI,Regular,2.0,190.0
+INV10441,2025-11-03,Kochi,Onion 1kg,Fruits & Veg,45.0,4,10,UPI,Regular,4.0,162.0
+INV10442,2025-06-18,Thrissur,Packaged Juice 1L,Beverages,110.0,1,0,Cash,Wholesale,4.0,110.0
+INV10443,2025-04-02,Thrissur,Tomato 1kg,Fruits & Veg,40.0,3,10,UPI,New,5.0,108.0
+INV10444,2025-04-22,Thiruvananthapuram,Tea Powder 500g,Grocery,190.0,4,0,Cash,Regular,3.0,760.0
+INV10446,2025-05-27,Kochi,Mango 1kg,Fruits & Veg,90.0,1,0,Cash,Regular,4.0,90.0
+INV10447,2025-12-07,Kochi,Shampoo 180ml,Personal Care,150.0,4,0,UPI,Regular,2.0,600.0
+INV10448,2025-07-13,Kochi,Atta 5kg,Grocery,260.0,1,0,UPI,Regular,5.0,260.0
+INV10449,12/12/2025,Kochi,Tomato 1kg,Fruits & Veg,40.0,4,0,Cash,Regular,1.0,160.0
+INV10451,2025-10-31,Kochi,Onion 1kg,Fruits & Veg,45.0,6,5,UPI,Regular,4.0,256.5
+INV10452,2025-12-08,Thiruvananthapuram,Atta 5kg,Grocery,260.0,4,5,Card,New,4.0,988.0
+INV10453,2025-09-12,Kozhikode,Soft Drink 2L,Beverages,95.0,7,0,UPI,Wholesale,2.0,665.0
+INV10454,2025-05-20,Kozhikode,Rice - Jeerakasala 1kg,Grocery,140.0,1,0,Card,New,1.0,140.0
+INV10455,2025-12-05, Kozhikode ,Banana (Nendran) 1kg,Fruits & Veg,60.0,1,5,Cash,Regular,4.0,57.0
+INV10457,2025-06-29,Kozhikode,Soap,Personal Care,38.0,3,0,Card,Regular,5.0,114.0
+INV10461,2025-12-03,Kochi,Banana Chips 250g,Snacks,80.0,7,10,Cash,Regular,4.0,504.0
+INV10462,2025-04-22,Cochin,Coconut Oil 1L,Grocery,240.0,6,10,UPI,Regular,1.0,1296.0
+INV10464,2025-05-14,Thrissur,Murukku 200g,Snacks,65.0,7,15,Card,New,4.0,386.75
+INV10465,2025-04-25,Kannur,Rice - Jeerakasala 1kg,Grocery,140.0,2,5,UPI,New,2.0,266.0
+INV10466,2025-05-12,Kochi,Tomato 1kg,Fruits & Veg,40.0,3,5,UPI,Regular,4.0,114.0
+INV10469,2025-09-21,Thiruvananthapuram,Rice - Matta 5kg,Grocery,285.0,6,0,Cash,Regular,4.0,1710.0
+INV10473,2025-10-08,Kozhikode,Murukku 200g,Snacks,65.0,6,0,Cash,Regular,5.0,390.0
+INV10474,2025-04-20,Kozhikode,Atta 5kg,Grocery,260.0,2,10,UPI,Regular,1.0,468.0
+INV10475,2025-12-21,Kannur,Tea Powder 500g,Grocery,190.0,3,5,UPI,Regular,2.0,541.5
+INV10476,2025-06-09,Kannur,Biscuits Pack,Snacks,25.0,1,10,UPI,Regular,3.0,22.5
+INV10478,2025-09-15,Kannur,Coffee Powder 200g,Beverages,160.0,4,0,UPI,Regular,1.0,640.0
+INV10479,2025-03-24,Kozhikode,Biscuits Pack,Snacks,25.0,5,10,UPI,Regular,3.0,112.5
+INV10483,2025-03-17,Thiruvananthapuram,Mango 1kg,Fruits & Veg,90.0,7,5,UPI,New,3.0,598.5
+INV10484,2025-11-08,Kozhikode,Murukku 200g,Snacks,65.0,3,0,UPI,New,4.0,195.0
+INV10485,2025-10-24,Kozhikode,Shampoo 180ml,Personal Care,150.0,1,10,UPI,Regular,1.0,135.0
+INV10487,2025-02-19,Kochi,Dishwash Liquid,Household,99.0,7,0,Card,Regular,1.0,693.0
+INV10489,2025-04-11,Kochi,Rice - Matta 5kg,Grocery,285.0,7,0,Cash,Regular,5.0,1995.0
+INV10492,04/12/2025,Kozhikode,Rice - Matta 5kg,Grocery,285.0,5,5,UPI,Regular,3.0,1353.75
+INV10493,2025-05-16,Thrissur,Soap,Personal Care,38.0,1,0,UPI,New,3.0,38.0
+INV10496,2025-04-26,Thrissur,Biscuits Pack,Snacks,25.0,2,0,Cash,Regular,4.0,50.0
+INV10497,2025-08-02,Thrissur,Shampoo 180ml,Personal Care,150.0,4,10,Cash,New,4.0,540.0
+INV10498,2025-04-11,Thrissur,Paneer 200g,Dairy,95.0,1,0,upi,Wholesale,4.0,95.0
+INV10500,2025-09-21,Kannur,Sugar 1kg,Grocery,48.0,6,0,UPI,New,2.0,288.0
+INV10504,2025-03-06,Kozhikode,Paneer 200g,Dairy,95.0,1,15,Cash,Regular,2.0,80.75
+INV10506,2025-12-15,Thrissur,Floor Cleaner 1L,Household,175.0,2,0,Cash,Regular,5.0,350.0
+INV10507,2025-01-17,Thrissur,Murukku 200g,Snacks,65.0,1,0,Cash,Wholesale,5.0,65.0
+INV10508,2025-05-08,Kozhikode,Milk 500ml,Dairy,30.0,6,0,upi,New,2.0,180.0
+INV10510,2025-09-18,Kozhikode,Mango 1kg,Fruits & Veg,90.0,6,0,UPI,New,1.0,540.0
+INV10511,2025-02-19,Thrissur,Tomato 1kg,Fruits & Veg,40.0,5,10,UPI,New,4.0,180.0
+INV10519,2025-07-19,Thrissur,Milk 500ml,Dairy,30.0,4,0,UPI,Regular,1.0,120.0
+INV10520,2025-09-22,Kozhikode,Onion 1kg,Fruits & Veg,45.0,2,0,UPI,Regular,3.0,90.0
+INV10523,2025-10-24,Kochi,Coffee Powder 200g,Beverages,160.0,3,0,Cash,New,3.0,480.0
+INV10524,2025-04-17,Kozhikode,Sugar 1kg,Grocery,48.0,5,0,Cash,New,4.0,240.0
+INV10525,2025-01-07,Kozhikode,Atta 5kg,Grocery,260.0,3,0,UPI,New,3.0,780.0
+INV10528,2025-03-12,Kozhikode,Rice - Jeerakasala 1kg,Grocery,140.0,7,0,Cash,Regular,5.0,980.0
+INV10529,2025-09-02,Kochi,Murukku 200g,Snacks,65.0,6,0,UPI,Wholesale,4.0,390.0
+INV10530,2025-02-08,Thrissur,Tomato 1kg,Fruits & Veg,40.0,3,0,Card,New,1.0,120.0
+INV10531,2025-10-07,Thrissur,Milk 500ml,Dairy,30.0,2,10,UPI,New,1.0,54.0
+INV10535,2025-08-22,Kozhikode,Detergent 1kg,Household,130.0,7,5,UPI,Regular,4.0,864.5
+INV10538,2025-03-19,Kannur,Coconut Oil 1L,Grocery,240.0,7,0,Card,New,4.0,1680.0
+INV10539,2025-05-26,Kannur,Butter 100g,Dairy,58.0,1,0,Card,Regular,3.0,58.0
+INV10541,2025-01-28,Kozhikode,Soft Drink 2L,Beverages,95.0,4,10,UPI,New,1.0,342.0
+INV10544,2025-08-24,Kozhikode,Atta 5kg,Grocery,260.0,7,5,UPI,Regular,1.0,1729.0
+INV10545,2025-09-07,Thrissur,Murukku 200g,Snacks,65.0,5,0,Cash,Regular,1.0,325.0
+INV10546,2025-10-10,Thiruvananthapuram,Butter 100g,Dairy,58.0,6,5,UPI,New,2.0,330.6
+INV10547,2025-08-20,Thrissur,Murukku 200g,Snacks,65.0,6,0,Cash,Regular,4.0,390.0
+INV10551,2025-09-17,Kozhikode,Milk 500ml,Dairy,30.0,7,0,UPI,Regular,4.0,210.0
+INV10553,2025-12-18,Kochi,Murukku 200g,Snacks,65.0,7,0,UPI,Wholesale,1.0,455.0
+INV10554,2025-07-28,Kochi,Banana (Nendran) 1kg,Fruits & Veg,60.0,5,0,Cash,Regular,5.0,300.0
+INV10555,2025-12-11,THRISSUR,Soap,Personal Care,38.0,7,10,UPI,New,2.0,239.4
+INV10557,2025-03-02,Thrissur,Onion 1kg,Fruits & Veg,45.0,6,15,Cash,Wholesale,2.0,229.5
+INV10559,2025-01-16,Thrissur,Banana (Nendran) 1kg,Fruits & Veg,60.0,4,15,Cash,Regular,3.0,204.0
+INV10561,2025-12-26,Thiruvananthapuram,Banana Chips 250g,Snacks,80.0,6,0,UPI,Regular,2.0,480.0
+INV10562,2025-10-03,Kochi,Mixture 250g,Snacks,70.0,7,0,UPI,Regular,4.0,490.0
+INV10566,2025-05-06,THRISSUR,Banana (Nendran) 1kg,Fruits & Veg,60.0,7,0,upi,New,1.0,420.0
+INV10569,2025-10-11,Kozhikode,Detergent 1kg,Household,130.0,7,10,upi,Regular,2.0,819.0
+INV10571,2025-01-25,Thrissur,Rice - Jeerakasala 1kg,Grocery,140.0,6,0,UPI,Regular,4.0,840.0
+INV10573,2025-04-20,Thrissur,Banana (Nendran) 1kg,Fruits & Veg,60.0,2,0,Cash,Wholesale,2.0,120.0
+INV10574,2025-04-06,Kochi,Butter 100g,Dairy,58.0,6,0,UPI,New,4.0,348.0
+INV10581,2025-05-26,Thiruvananthapuram,Soft Drink 2L,Beverages,95.0,6,15,Cash,Wholesale,4.0,484.5
+INV10583,2025-04-09,Kannur,Mixture 250g,Snacks,70.0,5,5,CARD,Regular,2.0,332.5
+INV10587,2025-10-10,Thrissur,Soap,Personal Care,38.0,3,0,Cash,Regular,1.0,114.0
+INV10588,2025-07-11,Thrissur,Soft Drink 2L,Beverages,95.0,5,0,Cash,Regular,2.0,475.0
+INV10589,2025-10-29,Thrissur,Toothpaste 150g,Personal Care,95.0,7,5,UPI,Wholesale,2.0,631.75
+INV10592,2025-06-23,Thrissur,Curd 400g,Dairy,35.0,5,0,UPI,Regular,4.0,175.0
+INV10593,2025-02-14,Kochi,Banana (Nendran) 1kg,Fruits & Veg,60.0,2,10,Cash,Regular,4.0,108.0
+INV10594,2025-04-30,Thiruvananthapuram,Milk 500ml,Dairy,30.0,7,0,Cash,New,4.0,210.0
+INV10600,2025-11-16,Kochi,Shampoo 180ml,Personal Care,150.0,1,15,UPI,New,3.0,127.5
+INV10601,2025-12-04,Kochi,Murukku 200g,Snacks,65.0,6,0,UPI,Regular,2.0,390.0
+INV10602,2025-08-27,Kochi,Packaged Juice 1L,Beverages,110.0,4,0,UPI,Regular,2.0,440.0
+INV10603,2025-11-16,Kozhikode,Sugar 1kg,Grocery,48.0,1,0,UPI,New,1.0,48.0
+INV10604,2025-01-23,Thiruvananthapuram,Soap,Personal Care,38.0,5,0,Cash,New,5.0,190.0
+INV10608,2025-10-06,Kochi,Biscuits Pack,Snacks,25.0,3,10,Card,Regular,3.0,67.5
+INV10610,2025-08-20,Kochi,Dishwash Liquid,Household,99.0,1,0,Cash,Regular,1.0,99.0
+INV10612,2025-03-07,Kochi,Dishwash Liquid,Household,99.0,5,0,Cash,New,5.0,495.0
+INV10617,2025-09-30,Kochi,Tea Powder 500g,Grocery,190.0,7,0,Card,New,3.0,1330.0
+INV10624,2025-01-22,THRISSUR,Soap,Personal Care,38.0,2,10,UPI,Wholesale,1.0,68.4
+INV10626,2025-04-13,Thrissur,Sugar 1kg,Grocery,48.0,3,0,UPI,Wholesale,4.0,144.0
+INV10627,2025-08-13,KOCHI,Biscuits Pack,Snacks,25.0,2,10,Cash,New,4.0,45.0
+INV10628,2025-04-18,Thrissur,Tomato 1kg,Fruits & Veg,40.0,5,10,Cash,Regular,5.0,180.0
+INV10633,2025-05-21,Kannur,Banana (Nendran) 1kg,Fruits & Veg,60.0,4,0,UPI,Regular,3.0,240.0
+INV10634,2025-01-16,Kozhikode,Curd 400g,Dairy,35.0,1,0,UPI,Regular,1.0,35.0
+INV10636,2025-12-31,Thiruvananthapuram,Soap,Personal Care,38.0,7,0,Card,New,1.0,266.0
+INV10637,2025-09-23,Thiruvananthapuram,Dishwash Liquid,Household,99.0,1,0,Cash,Regular,3.0,99.0
+INV10641,2025-08-23,Kochi,Toothpaste 150g,Personal Care,95.0,4,0,Cash,Wholesale,1.0,380.0
+INV10642,2025-07-29,Thiruvananthapuram,Banana Chips 250g,Snacks,80.0,1,5,Cash,Regular,1.0,76.0
+INV10647,2025-06-01,Kozhikode,Coffee Powder 200g,Beverages,160.0,3,0,UPI,Regular,1.0,480.0
+INV10649,2025-06-02,Kochi,Coconut Oil 1L,Grocery,240.0,3,0,UPI,New,3.0,720.0
+INV10651,17/12/2025,Thiruvananthapuram,Detergent 1kg,Household,130.0,4,15,Cash,New,1.0,442.0
+INV10652,2025-01-16,Thiruvananthapuram,Banana Chips 250g,Snacks,80.0,2,0,UPI,Regular,2.0,160.0
+INV10655,2025-09-29,Kochi,Murukku 200g,Snacks,65.0,2,10,UPI,Regular,2.0,117.0
+INV10656,2025-11-28,Kozhikode,Tomato 1kg,Fruits & Veg,40.0,7,0,UPI,New,2.0,280.0
+INV10657,2025-12-02,Thrissur,Rice - Jeerakasala 1kg,Grocery,140.0,6,0,UPI,Wholesale,5.0,840.0
+INV10659,2025-07-01,Kochi,Packaged Juice 1L,Beverages,110.0,2,0,UPI,Regular,1.0,220.0
+INV10662,2025-07-05,Thiruvananthapuram,Paneer 200g,Dairy,95.0,6,0,UPI,Regular,1.0,570.0
+INV10663,2025-07-02,Kozhikode,Paneer 200g,Dairy,95.0,2,10,UPI,New,4.0,171.0
+INV10668,2025-02-02,Kozhikode,Butter 100g,Dairy,58.0,2,10,Cash,New,3.0,104.4
+INV10670,2025-02-20,Kozhikode,Mango 1kg,Fruits & Veg,90.0,3,10,UPI,New,2.0,243.0
+INV10671,2025-04-16,Thiruvananthapuram,Floor Cleaner 1L,Household,175.0,2,15,UPI,Regular,2.0,297.5
+INV10674,2025-09-17,Thrissur,Mango 1kg,Fruits & Veg,90.0,5,0,UPI,New,5.0,450.0
+INV10675,2025-11-07,Thrissur,Rice - Matta 5kg,Grocery,285.0,6,0,Cash,Regular,1.0,1710.0
+INV10676,2025-07-04,Thrissur,Onion 1kg,Fruits & Veg,45.0,5,0,Cash,Regular,5.0,225.0
+INV10681,2025-04-26,Thiruvananthapuram,Biscuits Pack,Snacks,25.0,7,5,Cash,New,1.0,166.25
+INV10682,17/09/2025,Kannur,Coconut Oil 1L,Grocery,240.0,3,15,UPI,Wholesale,3.0,612.0
+INV10684,2025-12-13,Thrissur,Toothpaste 150g,Personal Care,95.0,1,10,UPI,New,5.0,85.5
+INV10687,2025-06-13,Thiruvananthapuram,Murukku 200g,Snacks,65.0,5,0,Cash,Wholesale,2.0,325.0
+INV10688,2025-03-30,Kochi,Atta 5kg,Grocery,260.0,5,0,Cash,Wholesale,2.0,1300.0
+INV10689,2025-09-08,Kochi,Sugar 1kg,Grocery,48.0,6,15,Cash,Regular,1.0,244.8
+INV10690,2025-10-12,Thiruvananthapuram,Atta 5kg,Grocery,260.0,3,0,Cash,Regular,1.0,780.0
+INV10691,2025-09-26,Kochi,Atta 5kg,Grocery,260.0,3,0,Card,Regular,5.0,780.0
+INV10692,2025-10-17,KOZHIKODE,Butter 100g,Dairy,58.0,1,0,Cash,Wholesale,2.0,58.0
+INV10693,2025-09-24,Kochi,Atta 5kg,Grocery,260.0,5,0,UPI,Regular,3.0,1300.0
+INV10696,2025-02-05,Kozhikode,Onion 1kg,Fruits & Veg,45.0,6,10,UPI,New,2.0,243.0
+INV10697,2025-12-18,Thrissur,Paneer 200g,Dairy,95.0,1,0,UPI,New,1.0,95.0
+INV10701,2025-09-13,Kozhikode,Murukku 200g,Snacks,65.0,4,5,Cash,Regular,5.0,247.0
+INV10702,2025-06-14,Thiruvananthapuram,Curd 400g,Dairy,35.0,7,10,Cash,Regular,5.0,220.5
+INV10703,2025-03-31,Kozhikode,Tomato 1kg,Fruits & Veg,40.0,3,0,Cash,Wholesale,5.0,120.0
+INV10704,2025-04-16,Kochi,Banana (Nendran) 1kg,Fruits & Veg,60.0,6,0,Cash,Regular,3.0,360.0
+INV10706,2025-04-05,Kannur,Tomato 1kg,Fruits & Veg,40.0,5,10,UPI,Regular,1.0,180.0
+INV10709,2025-09-14,Kozhikode,Butter 100g,Dairy,58.0,6,0,Cash,New,3.0,348.0
+INV10711,2025-03-10,Kannur,Soap,Personal Care,38.0,3,10,UPI,New,4.0,102.6
+INV10712,2025-10-29,Kochi,Coconut Oil 1L,Grocery,240.0,7,0,UPI,Regular,4.0,1680.0
+INV10715,2025-08-14,Kochi,Rice - Jeerakasala 1kg,Grocery,140.0,3,15,Cash,Regular,5.0,357.0
+INV10716,2025-04-21,Thrissur,Shampoo 180ml,Personal Care,150.0,3,10,UPI,New,1.0,405.0
+INV10718,2025-07-19, Thrissur ,Soft Drink 2L,Beverages,95.0,3,0,UPI,Regular,4.0,285.0
+INV10724,2025-07-18,Thrissur,Dishwash Liquid,Household,99.0,1,0,UPI,Regular,4.0,99.0
+INV10726,2025-07-08,Thrissur,Toothpaste 150g,Personal Care,95.0,1,0,Cash,Regular,1.0,95.0
+INV10727,2025-08-03,Kochi,Onion 1kg,Fruits & Veg,45.0,6,0,Cash,New,2.0,270.0
+INV10728,16/07/2025,KOZHIKODE,Mixture 250g,Snacks,70.0,7,10,UPI,Regular,4.0,441.0
+INV10730,2025-06-16,Thiruvananthapuram,Toothpaste 150g,Personal Care,95.0,7,10,Cash,New,1.0,598.5
+INV10733,2025-09-30,Kannur,Floor Cleaner 1L,Household,175.0,2,0,Cash,Regular,4.0,350.0
+INV10734,2025-10-29,Thrissur,Tomato 1kg,Fruits & Veg,40.0,3,0,UPI,New,3.0,120.0
+INV10736,2025-02-26,Thiruvananthapuram,Floor Cleaner 1L,Household,175.0,6,5,UPI,Regular,5.0,997.5
+INV10738,2025-10-13,Kochi,Butter 100g,Dairy,58.0,6,15,Cash,Regular,4.0,295.8
+INV10739,13/03/2025,Kozhikode,Mango 1kg,Fruits & Veg,90.0,1,0,Cash,Regular,1.0,90.0
+INV10741,2025-02-16,Thiruvananthapuram,Soap,Personal Care,38.0,5,0,UPI,Regular,1.0,190.0
+INV10742,07/07/2025,Thrissur,Packaged Juice 1L,Beverages,110.0,2,0,UPI,New,3.0,220.0
+INV10743,2025-11-28,Kochi,Mango 1kg,Fruits & Veg,90.0,4,0,UPI,Regular,1.0,360.0
+INV10747,2025-09-05,Thrissur,Banana Chips 250g,Snacks,80.0,5,5,UPI,New,2.0,380.0
+INV10751,2025-02-17,Thiruvananthapuram,Onion 1kg,Fruits & Veg,45.0,4,5,UPI,Wholesale,2.0,171.0
+INV10755,2025-10-22,Kochi,Detergent 1kg,Household,130.0,6,10,UPI,Wholesale,5.0,702.0
+INV10756,2025-06-15,Thrissur,Biscuits Pack,Snacks,25.0,6,0,UPI,Regular,5.0,150.0
+INV10759,2025-12-08,Kozhikode,Mixture 250g,Snacks,70.0,5,10,UPI,Regular,1.0,315.0
+INV10761,2025-03-31,Thrissur,Banana (Nendran) 1kg,Fruits & Veg,60.0,2,15,UPI,Regular,3.0,102.0
+INV10767,2025-09-21,Kozhikode,Tea Powder 500g,Grocery,190.0,7,10,UPI,New,5.0,1197.0
+INV10768,2025-09-02,Kannur,Mixture 250g,Snacks,70.0,2,0,Cash,Regular,4.0,140.0
+INV10769,07/12/2025,Kozhikode,Tea Powder 500g,Grocery,190.0,2,15,UPI,Regular,3.0,323.0
+INV10770,2025-06-02, Thiruvananthapuram ,Mixture 250g,Snacks,70.0,2,5,Cash,New,2.0,133.0
+INV10772,2025-04-18,Thrissur,Rice - Matta 5kg,Grocery,285.0,6,0,Card,Regular,3.0,1710.0
+INV10773,2025-01-24,Thrissur,Tea Powder 500g,Grocery,190.0,5,5,Cash,Wholesale,4.0,902.5
+INV10774,2025-06-08,Thiruvananthapuram,Mixture 250g,Snacks,70.0,1,0,UPI,Regular,3.0,70.0
+INV10779,2025-06-13,KANNUR,Sugar 1kg,Grocery,48.0,3,10,UPI,Regular,4.0,129.6
+INV10784,2025-09-01,Kozhikode,Mango 1kg,Fruits & Veg,90.0,3,5,Cash,New,1.0,256.5
+INV10785,2025-03-07,Thrissur,Detergent 1kg,Household,130.0,6,0,Cash,Regular,2.0,780.0
+INV10786,2025-08-30,Kozhikode,Rice - Matta 5kg,Grocery,285.0,7,5,CARD,New,4.0,1895.25
+INV10789,2025-07-13,Kochi,Mixture 250g,Snacks,70.0,1,0,UPI,New,3.0,70.0
+INV10791,2025-09-05,Thrissur,Murukku 200g,Snacks,65.0,5,0,Cash,New,5.0,325.0
+INV10792,2025-10-30,Thrissur,Milk 500ml,Dairy,30.0,3,0,Card,Regular,1.0,90.0
+INV10795,2025-08-24,Thrissur,Coconut Oil 1L,Grocery,240.0,3,0,UPI,New,5.0,720.0
+INV10796,2025-10-15,Kozhikode,Soap,Personal Care,38.0,3,0,Cash,Wholesale,4.0,114.0
+INV10799,2025-04-26,Kozhikode,Coconut Oil 1L,Grocery,240.0,1,10,UPI,Wholesale,3.0,216.0
+INV10800,2025-02-22,Thrissur,Murukku 200g,Snacks,65.0,1,0,UPI,Regular,1.0,65.0
+INV10801,2025-04-20,Thrissur,Coffee Powder 200g,Beverages,160.0,500,0,UPI,New,1.0,640.0
+INV10802,2025-09-13,Kochi,Milk 500ml,Dairy,30.0,5,10,UPI,Regular,5.0,135.0
+INV10804,17/02/2025, Kochi ,Mango 1kg,Fruits & Veg,90.0,2,15,Card,Regular,3.0,153.0
+INV10805,2025-07-08,Thiruvananthapuram,Butter 100g,Dairy,58.0,5,0,UPI,Regular,4.0,290.0
+INV10806,2025-08-20,Kochi,Murukku 200g,Snacks,65.0,3,10,Cash,Regular,1.0,175.5
+INV10808,2025-06-13,Kozhikode,Biscuits Pack,Snacks,25.0,2,0,Cash,Regular,3.0,50.0
+INV10810,2025-08-20,Thrissur,Tomato 1kg,Fruits & Veg,40.0,4,15,Card,New,5.0,136.0
+INV10811,2025-03-22,KOZHIKODE,Rice - Jeerakasala 1kg,Grocery,140.0,3,10,Cash,Regular,3.0,378.0
+INV10813,2025-08-26, Thrissur ,Murukku 200g,Snacks,65.0,4,0,UPI,Wholesale,5.0,260.0
+INV10819,2025-06-18,Thiruvananthapuram,Milk 500ml,Dairy,30.0,4,10,Cash,Regular,2.0,108.0
+INV10820,2025-01-31,Thrissur,Atta 5kg,Grocery,260.0,6,15,Cash,Regular,1.0,1326.0
+INV10822,2025-12-30,Kochi,Mango 1kg,Fruits & Veg,90.0,2,0,UPI,Regular,2.0,180.0
+INV10824,2025-12-23,Kannur,Curd 400g,Dairy,35.0,6,0,Card,New,1.0,210.0
+INV10832,2025-12-05,Kochi,Milk 500ml,Dairy,30.0,4,10,UPI,New,1.0,108.0
+INV10834,2025-12-17, Thrissur ,Rice - Matta 5kg,Grocery,285.0,1,0,UPI,New,3.0,285.0
+INV10836,27/01/2025,Kozhikode,Banana Chips 250g,Snacks,80.0,7,0,UPI,New,4.0,560.0
+INV10837,2025-11-07,Thrissur,Banana Chips 250g,Snacks,80.0,4,15,Cash,Regular,4.0,272.0
+INV10846,2025-12-24,Thiruvananthapuram,Coffee Powder 200g,Beverages,160.0,6,0,Cash,New,2.0,960.0
+INV10847,2025-09-07,Kochi,Milk 500ml,Dairy,30.0,1,15,Cash,Regular,4.0,25.5
+INV10848,2025-10-27,Thrissur,Curd 400g,Dairy,35.0,1,0,Card,New,3.0,35.0
+INV10849,2025-09-01,Kannur,Shampoo 180ml,Personal Care,150.0,7,10,Cash,Regular,3.0,945.0
+INV10850,31/07/2025,Kochi,Detergent 1kg,Household,130.0,7,0,Cash,Regular,5.0,910.0
+INV10851,2025-11-01,Kochi,Tea Powder 500g,Grocery,190.0,1,5,Cash,New,5.0,180.5
+INV10852,2025-12-22,Kozhikode,Tomato 1kg,Fruits & Veg,40.0,5,15,Card,Regular,3.0,170.0
+INV10853,2025-06-18,Kozhikode,Paneer 200g,Dairy,95.0,7,0,UPI,New,4.0,665.0
+INV10855,2025-09-29,Kozhikode,Tomato 1kg,Fruits & Veg,40.0,3,0,Card,New,2.0,120.0
+INV10856,2025-05-04,Cochin,Coffee Powder 200g,Beverages,160.0,6,0,Card,Regular,4.0,960.0
+INV10860,2025-06-08,Kozhikode,Soft Drink 2L,Beverages,95.0,5,5,Card,Regular,5.0,451.25
+INV10863,2025-02-18,Thrissur,Toothpaste 150g,Personal Care,95.0,1,0,UPI,Regular,5.0,95.0
+INV10864,02/12/2025,Kozhikode,Tea Powder 500g,Grocery,190.0,4,0,UPI,New,3.0,760.0
+INV10865,2025-11-10,Thiruvananthapuram,Floor Cleaner 1L,Household,175.0,6,15,UPI,Regular,4.0,892.5
+INV10869,2025-04-18,Kochi,Mixture 250g,Snacks,70.0,3,0,Cash,New,5.0,210.0
+INV10870,2025-08-13,Thiruvananthapuram,Soft Drink 2L,Beverages,95.0,6,0,UPI,Regular,5.0,570.0
+INV10871,2025-12-17,THRISSUR,Coffee Powder 200g,Beverages,160.0,2,5,Cash,New,3.0,304.0
+INV10875,2025-09-10,Kozhikode,Soft Drink 2L,Beverages,95.0,4,0,UPI,Regular,4.0,380.0
+INV10876,2025-08-20,Thrissur,Tea Powder 500g,Grocery,190.0,2,10,UPI,Regular,1.0,342.0
+INV10878,2025-09-07,Thrissur,Rice - Jeerakasala 1kg,Grocery,140.0,7,0,UPI,Regular,3.0,980.0
+INV10882,2025-06-14,Kochi,Coconut Oil 1L,Grocery,240.0,1,15,UPI,Wholesale,5.0,204.0
+INV10888,2025-03-01,Kochi,Dishwash Liquid,Household,99.0,6,15,Cash,Regular,1.0,504.9
+INV10890,2025-04-13,KOCHI,Curd 400g,Dairy,35.0,7,10,Cash,New,2.0,220.5
+INV10891,2025-01-26,Thiruvananthapuram,Coffee Powder 200g,Beverages,160.0,4,0,UPI,Regular,1.0,640.0
+INV10893,2025-07-08,Kannur,Packaged Juice 1L,Beverages,110.0,2,10,UPI,Wholesale,3.0,198.0
+INV10895,2025-05-12,Thrissur,Coconut Oil 1L,Grocery,240.0,3,0,Cash,New,3.0,720.0
+INV10896,2025-03-24,Kozhikode,Floor Cleaner 1L,Household,175.0,3,10,Cash,Regular,1.0,472.5
+INV10897,2025-09-20,Thiruvananthapuram,Soap,Personal Care,38.0,6,5,Cash,Regular,3.0,216.6
+INV10898,2025-05-06,Thrissur,Sugar 1kg,Grocery,48.0,4,0,upi,Regular,2.0,192.0
+INV10899,2025-05-12,Thiruvananthapuram,Soft Drink 2L,Beverages,95.0,5,15,Cash,Regular,2.0,403.75
+INV10900,2025-01-08,Kannur,Coconut Oil 1L,Grocery,240.0,4,0,UPI,Regular,1.0,960.0
+INV10902,2025-09-13,KOZHIKODE,Atta 5kg,Grocery,260.0,1,15,UPI,Regular,2.0,221.0
+INV10904,2025-04-13,Thiruvananthapuram,Detergent 1kg,Household,130.0,5,15,UPI,Regular,3.0,552.5
+INV10906,2025-09-08,Kannur,Coconut Oil 1L,Grocery,240.0,6,0,UPI,Regular,4.0,1440.0
+INV10908,2025-08-05,Kozhikode,Onion 1kg,Fruits & Veg,45.0,2,15,UPI,Regular,5.0,76.5
+INV10912,2025-01-13,Kochi,Toothpaste 150g,Personal Care,95.0,4,0,UPI,New,3.0,380.0
+INV10913,2025-02-04,Thrissur,Milk 500ml,Dairy,30.0,2,0,UPI,Regular,5.0,60.0
+INV10915,2025-08-02,Kochi,Soap,Personal Care,38.0,1,5,Cash,New,3.0,36.1
+INV10919,2025-09-07,Kochi,Toothpaste 150g,Personal Care,95.0,1,0,UPI,Wholesale,5.0,95.0
+INV10921,2025-09-15,Thrissur,Toothpaste 150g,Personal Care,95.0,5,0,Cash,New,4.0,475.0
+INV10922,2025-11-08,Kochi,Soap,Personal Care,38.0,5,5,Card,New,1.0,180.5
+INV10924,2025-04-06,Kozhikode,Paneer 200g,Dairy,95.0,1,0,UPI,New,3.0,95.0
+INV10927,2025-03-05,Kochi,Curd 400g,Dairy,35.0,6,0,Cash,New,4.0,210.0
+INV10928,2025-05-24,Kochi,Tea Powder 500g,Grocery,190.0,6,0,Cash,New,2.0,1140.0
+INV10932,2025-12-06,Thrissur,Atta 5kg,Grocery,260.0,6,0,UPI,Regular,4.0,1560.0
+INV10933,2025-10-21,Thiruvananthapuram,Coconut Oil 1L,Grocery,240.0,2,5,UPI,Regular,5.0,456.0
+INV10934,2025-12-20,Kochi,Soap,Personal Care,38.0,6,10,Card,New,5.0,205.2
+INV10936,2025-10-07,Kozhikode,Rice - Jeerakasala 1kg,Grocery,140.0,1,0,UPI,New,4.0,140.0
+INV10937,2025-06-15,Thrissur,Atta 5kg,Grocery,260.0,7,0,UPI,Regular,3.0,1820.0
+INV10938,2025-03-31,Kozhikode,Coffee Powder 200g,Beverages,160.0,4,15,UPI,New,5.0,544.0
+INV10941,2025-07-28,Thrissur,Biscuits Pack,Snacks,25.0,3,5,Cash,Regular,4.0,71.25
+INV10942,28/04/2025,Kozhikode,Sugar 1kg,Grocery,48.0,5,15,UPI,New,3.0,204.0
+INV10945,2025-04-11,Kannur,Toothpaste 150g,Personal Care,95.0,5,0,UPI,Regular,5.0,475.0
+INV10954,2025-10-01,Kozhikode,Onion 1kg,Fruits & Veg,45.0,2,15,Cash,Regular,3.0,76.5
+INV10957,2025-08-02,Kozhikode,Coffee Powder 200g,Beverages,160.0,4,15,Cash,Regular,2.0,544.0
+INV10961,2025-12-06,Thrissur,Toothpaste 150g,Personal Care,95.0,6,0,Cash,New,4.0,570.0
+INV10963,2025-12-30,Kochi,Soap,Personal Care,38.0,1,0,Cash,New,2.0,38.0
+INV10966,2025-06-13,Kozhikode,Shampoo 180ml,Personal Care,150.0,3,0,Cash,New,3.0,450.0
+INV10967,2025-06-11,Thrissur,Banana Chips 250g,Snacks,80.0,7,5,UPI,Regular,4.0,532.0
+INV10971,2025-11-07,Thiruvananthapuram,Tomato 1kg,Fruits & Veg,40.0,2,5,Cash,Regular,2.0,76.0
+INV10973,2025-11-26,Thrissur,Mixture 250g,Snacks,70.0,6,5,UPI,Regular,3.0,399.0
+INV10974,2025-06-07,Thrissur,Banana Chips 250g,Snacks,80.0,7,0,UPI,Regular,3.0,560.0
+INV10975,2025-06-23,Thiruvananthapuram,Detergent 1kg,Household,130.0,6,15,UPI,New,1.0,663.0
+INV10981,2025-04-16,Thiruvananthapuram,Banana (Nendran) 1kg,Fruits & Veg,60.0,4,0,Card,New,2.0,240.0
+INV10983,2025-06-29,Thiruvananthapuram,Coffee Powder 200g,Beverages,160.0,7,5,Cash,Regular,4.0,1064.0
+INV10984,2025-03-06,Kochi,Dishwash Liquid,Household,99.0,5,0,Cash,Regular,4.0,495.0
+INV10985,2025-01-12,Thiruvananthapuram,Tea Powder 500g,Grocery,190.0,7,5,Cash,Regular,5.0,1263.5
+INV10986,2025-03-29,Kochi,Biscuits Pack,Snacks,25.0,2,5,UPI,Regular,4.0,47.5
+INV10987,2025-08-20,Kochi,Biscuits Pack,Snacks,25.0,6,5,Card,New,4.0,142.5
+INV10988,2025-10-29,Kochi,Mixture 250g,Snacks,70.0,3,15,Card,Wholesale,3.0,178.5
+INV10989,05/08/2025,Kochi,Mango 1kg,Fruits & Veg,90.0,4,5,Cash,Regular,5.0,342.0
+INV10993,2025-07-18,Kannur,Biscuits Pack,Snacks,25.0,7,5,UPI,Regular,3.0,166.25
+INV10995,2025-12-21,Kochi,Butter 100g,Dairy,58.0,3,15,Cash,Regular,1.0,147.9
+INV10996,2025-12-07,Thrissur,Rice - Matta 5kg,Grocery,285.0,3,0,Cash,Regular,5.0,855.0
+INV10997,2025-07-21,Thrissur,Coffee Powder 200g,Beverages,160.0,2,0,Card,Regular,3.0,320.0
+INV10999,2025-08-03,Kochi,Onion 1kg,Fruits & Veg,45.0,4,10,UPI,Regular,1.0,162.0
+INV11000,2025-09-02,Thrissur,Detergent 1kg,Household,130.0,2,10,UPI,Wholesale,2.0,234.0
+INV11001,2025-01-31,Thiruvananthapuram,Curd 400g,Dairy,35.0,6,0,UPI,Regular,4.0,210.0
+INV11002,2025-12-14,Thiruvananthapuram,Paneer 200g,Dairy,95.0,2,5,UPI,Regular,2.0,180.5
+INV11003,2025-09-10,Kochi,Curd 400g,Dairy,35.0,5,5,UPI,Regular,3.0,166.25
+INV11005,2025-06-19,Thrissur,Sugar 1kg,Grocery,48.0,5,5,UPI,Regular,4.0,228.0
+INV11006,2025-07-13,Thrissur,Atta 5kg,Grocery,260.0,1,0,Card,Regular,2.0,260.0
+INV11007,2025-09-07,Kochi,Biscuits Pack,Snacks,25.0,4,0,UPI,Regular,5.0,100.0
+INV11008,2025-10-17,Kochi,Mango 1kg,Fruits & Veg,90.0,5,0,UPI,Regular,5.0,450.0
+INV11011,2025-06-07,Kozhikode,Soap,Personal Care,38.0,4,0,Cash,Regular,2.0,152.0
+INV11014,2025-11-09,Kochi,Rice - Matta 5kg,Grocery,285.0,2,0,Card,Regular,3.0,570.0
+INV11015,2025-01-10,Kannur,Tomato 1kg,Fruits & Veg,40.0,4,0,Cash,Regular,2.0,160.0
+INV11020,04/12/2025,Kozhikode,Curd 400g,Dairy,35.0,5,10,Cash,Regular,3.0,157.5
+INV11023,2025-08-14,Kochi,Shampoo 180ml,Personal Care,150.0,5,10,Cash,Regular,1.0,675.0
+INV11024,2025-02-17, Thrissur ,Floor Cleaner 1L,Household,175.0,4,0,Cash,Regular,4.0,700.0
+INV11025,2025-12-04,Kozhikode,Murukku 200g,Snacks,65.0,1,15,UPI,Regular,3.0,55.25
+INV11026,2025-06-08,Kochi,Curd 400g,Dairy,35.0,4,0,Cash,Regular,5.0,140.0
+INV11027,2025-05-22,Kochi,Mixture 250g,Snacks,70.0,6,0,Cash,Wholesale,2.0,420.0
+INV11031,2025-03-29, Thrissur ,Shampoo 180ml,Personal Care,150.0,2,5,Cash,Regular,4.0,285.0
+INV11034,2025-08-18,Thiruvananthapuram,Murukku 200g,Snacks,65.0,2,10,UPI,Regular,5.0,117.0
+INV11035,2025-03-28,THIRUVANANTHAPURAM,Mixture 250g,Snacks,70.0,4,0,Cash,New,4.0,280.0
+INV11036,04/10/2025,Kozhikode,Dishwash Liquid,Household,99.0,2,15,UPI,Regular,5.0,168.3
+INV11037,2025-08-09,Kozhikode,Mango 1kg,Fruits & Veg,90.0,4,0,Cash,Regular,5.0,360.0
+INV11038,2025-01-14, Thrissur ,Detergent 1kg,Household,130.0,2,0,UPI,Wholesale,5.0,260.0
+INV11039,2025-12-05, Kochi ,Rice - Matta 5kg,Grocery,285.0,5,5,UPI,Regular,2.0,1353.75
+INV11042,2025-07-30,Thrissur,Coffee Powder 200g,Beverages,160.0,4,15,Cash,Regular,4.0,544.0
+INV11043,2025-03-11,Thiruvananthapuram,Biscuits Pack,Snacks,25.0,3,15,cash,New,4.0,63.75
+INV11044,2025-12-13,THRISSUR,Biscuits Pack,Snacks,25.0,500,10,Cash,Regular,2.0,45.0
+INV11045,2025-08-20,Kochi,Tea Powder 500g,Grocery,190.0,2,15,UPI,Regular,2.0,323.0
+INV11049,2025-09-26,Thiruvananthapuram,Coconut Oil 1L,Grocery,240.0,1,15,UPI,Regular,3.0,204.0
+INV11051,2025-05-04,Thrissur,Floor Cleaner 1L,Household,175.0,6,0,UPI,Regular,3.0,1050.0
+INV11056,2025-09-27,Thrissur,Floor Cleaner 1L,Household,175.0,2,0,cash,Regular,1.0,350.0
+INV11058,2025-03-18,Kochi,Curd 400g,Dairy,35.0,7,0,Cash,New,3.0,245.0
+INV11061,2025-03-31,Kozhikode,Coffee Powder 200g,Beverages,160.0,6,0,UPI,New,4.0,960.0
+INV11062,2025-05-04,Kozhikode,Rice - Matta 5kg,Grocery,285.0,3,15,UPI,Regular,3.0,726.75
+INV11064,2025-04-15,Thrissur,Paneer 200g,Dairy,95.0,6,15,Cash,Regular,5.0,484.5
+INV11068,2025-02-28,Kozhikode,Tea Powder 500g,Grocery,190.0,3,0,Cash,New,5.0,570.0
+INV11074,2025-06-30,Kochi,Soft Drink 2L,Beverages,95.0,3,0,Cash,Regular,1.0,285.0
+INV11075,2025-10-07,Thrissur,Coffee Powder 200g,Beverages,160.0,2,0,UPI,Regular,2.0,320.0
+INV11076,2025-06-23,Kozhikode,Atta 5kg,Grocery,260.0,5,0,Card,Regular,2.0,1300.0
+INV11078,2025-08-09,Kannur,Coffee Powder 200g,Beverages,160.0,3,5,Cash,Regular,1.0,456.0
+INV11082,2025-12-10,Kozhikode,Coconut Oil 1L,Grocery,240.0,7,0,UPI,New,3.0,1680.0
+INV11083,2025-07-05,Kozhikode,Milk 500ml,Dairy,30.0,5,15,Cash,Wholesale,5.0,127.5
+INV11086,2025-07-08,Thrissur,Coconut Oil 1L,Grocery,240.0,5,0,UPI,Regular,1.0,1200.0
+INV11087,2025-11-30,Thiruvananthapuram,Toothpaste 150g,Personal Care,95.0,4,0,UPI,New,4.0,380.0
+INV11090,2025-09-12,Thrissur,Detergent 1kg,Household,130.0,4,10,Cash,New,5.0,468.0
+INV11091,2025-08-01,Kochi,Murukku 200g,Snacks,65.0,5,0,Cash,Regular,3.0,325.0
+INV11097,2025-11-06,Kozhikode,Coffee Powder 200g,Beverages,160.0,6,0,Cash,New,5.0,960.0
+INV11100,2025-09-07,Thrissur,Soap,Personal Care,38.0,4,0,UPI,New,3.0,152.0
+INV11102,2025-08-17,Kannur,Biscuits Pack,Snacks,25.0,3,10,UPI,Regular,3.0,67.5
+INV11103,2025-09-09,Thrissur,Milk 500ml,Dairy,30.0,7,15,Cash,Regular,1.0,178.5
+INV11105,2025-09-08,Kochi,Atta 5kg,Grocery,260.0,3,0,UPI,Regular,5.0,780.0
+INV11106,2025-07-13,Kochi,Coffee Powder 200g,Beverages,160.0,-1,15,UPI,Regular,4.0,408.0
+INV11109,2025-03-20,Kozhikode,Shampoo 180ml,Personal Care,150.0,2,0,UPI,Regular,4.0,300.0
+INV11110,2025-09-26,Thiruvananthapuram,Rice - Matta 5kg,Grocery,285.0,5,0,UPI,Regular,5.0,1425.0
+INV11114,2025-03-27,Thiruvananthapuram,Mango 1kg,Fruits & Veg,90.0,3,0,Cash,New,3.0,270.0
+INV11115,2025-11-03,Thrissur,Sugar 1kg,Grocery,48.0,4,5,UPI,Regular,2.0,182.4
+INV11117,2025-01-27, Kannur ,Toothpaste 150g,Personal Care,95.0,3,5,UPI,Regular,5.0,270.75
+INV11119,2025-10-09,Kozhikode,Rice - Matta 5kg,Grocery,285.0,3,10,UPI,Regular,3.0,769.5
+INV11121,2025-05-16,Kochi,Rice - Matta 5kg,Grocery,285.0,2,15,Cash,New,2.0,484.5
+INV11122,2025-12-30,Thiruvananthapuram,Mango 1kg,Fruits & Veg,90.0,7,0,Cash,Regular,1.0,630.0
+INV11125,16/09/2025,Thrissur,Milk 500ml,Dairy,30.0,5,0,UPI,Regular,4.0,150.0
+INV11126,2025-09-26,Thiruvananthapuram,Milk 500ml,Dairy,30.0,1,0,Cash,Regular,4.0,30.0
+INV11128,2025-03-25,Thrissur,Dishwash Liquid,Household,99.0,2,0,UPI,Regular,1.0,198.0
+INV11131,2025-09-28,Thiruvananthapuram,Biscuits Pack,Snacks,25.0,6,15,Cash,Regular,4.0,127.5
+INV11133,2025-09-26,Thrissur,Murukku 200g,Snacks,65.0,5,0,UPI,Regular,2.0,325.0
+INV11135,2025-03-31,Kozhikode,Detergent 1kg,Household,130.0,7,0,UPI,Regular,3.0,910.0
+INV11136,2025-04-01,Kochi,Detergent 1kg,Household,130.0,2,0,UPI,Regular,2.0,260.0
+INV11138,2025-10-12,Kozhikode,Floor Cleaner 1L,Household,175.0,2,5,Cash,Wholesale,1.0,332.5
+INV11139,05/10/2025,Kochi,Toothpaste 150g,Personal Care,95.0,4,0,UPI,New,5.0,380.0
+INV11143,2025-09-17,Kochi,Soft Drink 2L,Beverages,95.0,6,15,UPI,Wholesale,3.0,484.5
+INV11144,2025-10-28,Thrissur,Mango 1kg,Fruits & Veg,90.0,1,0,Cash,Regular,5.0,90.0
+INV11146,2025-07-10,Thiruvananthapuram,Onion 1kg,Fruits & Veg,45.0,4,0,UPI,Regular,2.0,180.0
+INV11147,2025-11-08,Kochi,Soap,Personal Care,38.0,3,10,UPI,Regular,1.0,102.6
+INV11150,2025-04-14,Thiruvananthapuram,Atta 5kg,Grocery,260.0,3,5,UPI,Regular,1.0,741.0
+INV11151,2025-11-11,Kannur,Soft Drink 2L,Beverages,95.0,1,5,Cash,Regular,2.0,90.25
+INV11152,2025-01-20,Thrissur,Mango 1kg,Fruits & Veg,90.0,1,0,Cash,Regular,3.0,90.0
+INV11153,2025-05-21,Thrissur,Butter 100g,Dairy,58.0,1,10,UPI,Regular,3.0,52.2
+INV11154,2025-05-27,Thiruvananthapuram,Rice - Jeerakasala 1kg,Grocery,140.0,7,0,Card,New,5.0,980.0
+INV11155,2025-09-23,Kozhikode,Rice - Matta 5kg,Grocery,285.0,5,0,UPI,Regular,3.0,1425.0
+INV11157,2025-11-24,Thiruvananthapuram,Banana Chips 250g,Snacks,80.0,2,5,UPI,Regular,2.0,152.0
+INV11161,2025-12-17,Thrissur,Packaged Juice 1L,Beverages,110.0,4,0,Cash,Regular,4.0,440.0
+INV11168,2025-10-12,Thiruvananthapuram,Biscuits Pack,Snacks,25.0,6,10,UPI,New,3.0,135.0
+INV11170,2025-01-13,Kannur,Dishwash Liquid,Household,99.0,6,10,upi,Wholesale,5.0,534.6
+INV11174,2025-08-02,Thrissur,Rice - Matta 5kg,Grocery,285.0,4,15,Cash,Regular,2.0,969.0
+INV11175,2025-02-10,Thrissur,Packaged Juice 1L,Beverages,110.0,1,0,UPI,Regular,3.0,110.0
+INV11176,2025-08-27,Thrissur,Rice - Matta 5kg,Grocery,285.0,3,0,Card,New,4.0,855.0
+INV11177,2025-09-12,Kochi,Detergent 1kg,Household,130.0,5,5,UPI,New,3.0,617.5
+INV11180,2025-03-31,Kozhikode,Detergent 1kg,Household,130.0,5,0,UPI,Wholesale,3.0,650.0
+INV11184,2025-04-26,Thiruvananthapuram,Tea Powder 500g,Grocery,190.0,6,5,Cash,Regular,3.0,1083.0
+INV11187,2025-04-25,Kochi,Coconut Oil 1L,Grocery,240.0,5,0,Cash,Regular,5.0,1200.0
+INV11190,23/01/2025,Thrissur,Shampoo 180ml,Personal Care,150.0,4,15,UPI,New,1.0,510.0
+INV11191,2025-08-11,Kozhikode,Paneer 200g,Dairy,95.0,2,0,Card,New,1.0,190.0
+INV11192,2025-12-31,Kannur,Packaged Juice 1L,Beverages,110.0,5,0,UPI,New,5.0,550.0
+INV11193,2025-04-11,Kochi,Coffee Powder 200g,Beverages,160.0,5,15,UPI,New,5.0,680.0
+INV11194,2025-07-14,Thrissur,Toothpaste 150g,Personal Care,95.0,7,10,Cash,Regular,3.0,598.5
+INV11196,2025-09-04,Thiruvananthapuram,Floor Cleaner 1L,Household,175.0,3,0,UPI,New,4.0,525.0
+INV11200,26/12/2025,THRISSUR,Dishwash Liquid,Household,99.0,4,0,Card,New,3.0,396.0
+INV11208,2025-05-01,Kozhikode,Rice - Jeerakasala 1kg,Grocery,140.0,7,5,Card,Regular,5.0,931.0
+INV11212,2025-08-28,Kannur,Soap,Personal Care,38.0,4,0,UPI,Regular,2.0,152.0
+INV11215,2025-04-27,Kochi,Mixture 250g,Snacks,70.0,4,15,Cash,Regular,3.0,238.0
+INV11216,2025-12-14,Kannur,Butter 100g,Dairy,58.0,5,5,UPI,Regular,3.0,275.5
+INV11218,2025-05-24,Kochi,Mixture 250g,Snacks,70.0,4,10,UPI,New,5.0,252.0
+INV11220,2025-04-16,Kozhikode,Toothpaste 150g,Personal Care,95.0,5,0,UPI,Regular,3.0,475.0
+INV11223,2025-02-16,Kochi,Toothpaste 150g,Personal Care,95.0,4,15,Cash,New,2.0,323.0
+INV11224,2025-01-02,Kochi,Mango 1kg,Fruits & Veg,90.0,5,10,UPI,Regular,1.0,405.0
+INV11226,2025-01-29,Kozhikode,Banana (Nendran) 1kg,Fruits & Veg,60.0,3,15,Card,Regular,1.0,153.0
+INV11228,2025-04-16,Kozhikode,Coffee Powder 200g,Beverages,160.0,5,0,Card,New,4.0,800.0
+INV11234,29/11/2025,Kochi,Biscuits Pack,Snacks,25.0,4,10,UPI,Regular,5.0,90.0
+INV11236,2025-08-13,Kozhikode,Tomato 1kg,Fruits & Veg,40.0,6,5,Cash,Wholesale,2.0,228.0
+INV11237,2025-06-25,Kochi,Murukku 200g,Snacks,65.0,7,0,UPI,Regular,5.0,455.0
+INV11239,2025-10-13,Kochi,Shampoo 180ml,Personal Care,150.0,7,0,UPI,New,3.0,1050.0
+INV11242,2025-09-26,Thrissur,Curd 400g,Dairy,35.0,4,0,Card,New,3.0,140.0
+INV11245,2025-05-14, Thrissur ,Banana Chips 250g,Snacks,80.0,4,10,Cash,Regular,4.0,288.0
+INV11248,2025-02-22,Kochi,Sugar 1kg,Grocery,48.0,5,0,UPI,Regular,5.0,240.0
+INV11250,2025-07-05,Thrissur,Tomato 1kg,Fruits & Veg,40.0,1,15,Cash,Regular,2.0,34.0
+INV11252,2025-09-06,Thrissur,Sugar 1kg,Grocery,48.0,5,5,UPI,New,1.0,228.0
+INV11253,2025-10-28,Kozhikode,Murukku 200g,Snacks,65.0,3,0,Card,Regular,4.0,195.0
+INV11254,2025-08-25,Kochi,Shampoo 180ml,Personal Care,150.0,6,0,Cash,Regular,3.0,900.0
+INV11256,2025-10-18,Kochi,Atta 5kg,Grocery,260.0,6,0,Cash,Wholesale,2.0,1560.0
+INV11258,2025-06-15,Thrissur,Soft Drink 2L,Beverages,95.0,1,5,UPI,New,2.0,90.25
+INV11259,2025-11-13,Kannur,Milk 500ml,Dairy,30.0,5,0,Cash,Regular,3.0,150.0
+INV11260,2025-04-21,Kozhikode,Rice - Matta 5kg,Grocery,285.0,3,10,Cash,Wholesale,5.0,769.5
+INV11261,2025-07-04,Thrissur,Packaged Juice 1L,Beverages,110.0,2,0,UPI,New,4.0,220.0
+INV11268,2025-03-28,Thrissur,Biscuits Pack,Snacks,25.0,1,15,UPI,Regular,2.0,21.25
+INV11269,2025-07-22,Kochi,Coconut Oil 1L,Grocery,240.0,7,10,UPI,Regular,4.0,1512.0
+INV11270,2025-06-16,Thrissur,Dishwash Liquid,Household,99.0,1,10,UPI,Regular,5.0,89.1
+INV11271,2025-02-22,Kannur,Mixture 250g,Snacks,70.0,3,0,Cash,New,4.0,210.0
+INV11272,2025-04-20,Kozhikode,Soft Drink 2L,Beverages,95.0,5,5,UPI,New,2.0,451.25
+INV11275,2025-04-27,Thiruvananthapuram,Mixture 250g,Snacks,70.0,1,15,UPI,Regular,2.0,59.5
+INV11277,2025-03-06,Thiruvananthapuram,Dishwash Liquid,Household,99.0,4,0,UPI,Regular,3.0,396.0
+INV11279,2025-08-25,Kozhikode,Tea Powder 500g,Grocery,190.0,2,15,Cash,Regular,1.0,323.0
+INV11281,2025-09-08,Kochi,Mango 1kg,Fruits & Veg,90.0,2,0,Cash,Regular,1.0,180.0
+INV11282,2025-09-14,KOCHI,Atta 5kg,Grocery,260.0,3,5,Card,Regular,3.0,741.0
+INV11283,2025-09-28,Kochi,Tea Powder 500g,Grocery,190.0,1,10,Cash,Regular,5.0,171.0
+INV11284,2025-09-13,Thiruvananthapuram,Toothpaste 150g,Personal Care,95.0,6,0,UPI,Regular,2.0,570.0
+INV11285,2025-11-15,Kochi,Curd 400g,Dairy,35.0,5,0,Card,Regular,2.0,175.0
+INV11286,2025-12-26,Thrissur,Mango 1kg,Fruits & Veg,90.0,6,15,UPI,Regular,4.0,459.0
+INV11287,2025-12-21,Thiruvananthapuram,Milk 500ml,Dairy,30.0,1,15,Card,Regular,3.0,25.5
+INV11289,2025-03-24,Thrissur,Rice - Jeerakasala 1kg,Grocery,140.0,2,5,Cash,New,1.0,266.0
+INV11292,2025-10-20,Thiruvananthapuram,Murukku 200g,Snacks,65.0,2,10,Cash,Regular,1.0,117.0
+INV11294,2025-08-09,Kozhikode,Sugar 1kg,Grocery,48.0,5,15,UPI,New,1.0,204.0
+INV11296,04/04/2025, Kozhikode ,Toothpaste 150g,Personal Care,95.0,1,0,UPI,New,4.0,95.0
+INV11297,2025-04-16,Kannur,Paneer 200g,Dairy,95.0,7,15,UPI,Wholesale,5.0,565.25
+INV11299,2025-09-21,Thrissur,Dishwash Liquid,Household,99.0,2,15,Cash,Regular,3.0,168.3
+INV11300,24/09/2025,Kannur,Detergent 1kg,Household,130.0,2,0,UPI,Regular,5.0,260.0
+INV11305,2025-09-05,Thiruvananthapuram,Mixture 250g,Snacks,70.0,6,10,UPI,New,5.0,378.0
+INV11307,2025-09-29,Kochi,Onion 1kg,Fruits & Veg,45.0,2,0,Cash,Regular,5.0,90.0
+INV11310,2025-03-24,Kozhikode,Biscuits Pack,Snacks,25.0,3,5,UPI,Regular,3.0,71.25
+INV11311,2025-06-23,Thiruvananthapuram,Soft Drink 2L,Beverages,95.0,7,0,UPI,Regular,3.0,665.0
+INV11312,2025-11-21,Kozhikode,Onion 1kg,Fruits & Veg,45.0,2,10,Cash,Regular,3.0,81.0
+INV11313,2025-05-16,Thrissur,Mango 1kg,Fruits & Veg,90.0,5,15,Cash,Regular,2.0,382.5
+INV11316,2025-08-03,Kozhikode,Banana Chips 250g,Snacks,80.0,6,0,Cash,New,5.0,480.0
+INV11318,2025-01-16,Kozhikode,Floor Cleaner 1L,Household,175.0,1,15,UPI,New,1.0,148.75
+INV11319,2025-11-24,Thrissur,Toothpaste 150g,Personal Care,95.0,6,0,Cash,Regular,3.0,570.0
+INV11320,11/07/2025,Thrissur,Sugar 1kg,Grocery,48.0,6,15,UPI,Regular,3.0,244.8
+INV11321,2025-10-04,Kozhikode,Mixture 250g,Snacks,70.0,6,0,Cash,Regular,2.0,420.0
+INV11323,2025-02-14,Thiruvananthapuram,Banana (Nendran) 1kg,Fruits & Veg,60.0,4,0,UPI,Regular,3.0,240.0
+INV11324,2025-07-05,Kozhikode,Rice - Jeerakasala 1kg,Grocery,140.0,1,0,UPI,New,1.0,140.0
+INV11334,2025-06-18,Thiruvananthapuram,Mango 1kg,Fruits & Veg,90.0,2,0,UPI,New,3.0,180.0
+INV11337,2025-11-24,Thrissur,Curd 400g,Dairy,35.0,3,15,Cash,New,3.0,89.25
+INV11339,2025-03-30,Kozhikode,Soap,Personal Care,38.0,5,15,cash,New,1.0,161.5
+INV11340,2025-09-26,Thrissur,Mixture 250g,Snacks,70.0,6,10,Card,New,3.0,378.0
+INV11341,2025-06-29,Kozhikode,Curd 400g,Dairy,35.0,7,0,Card,Regular,4.0,245.0
+INV11342,2025-08-15,Kochi,Butter 100g,Dairy,58.0,5,10,UPI,Regular,2.0,261.0
+INV11344,2025-09-03,Thiruvananthapuram,Sugar 1kg,Grocery,48.0,7,15,UPI,Regular,3.0,285.6
+INV11345,2025-03-18,Kochi,Mixture 250g,Snacks,70.0,5,5,Cash,Regular,4.0,332.5
+INV11351,2025-10-27, Thrissur ,Milk 500ml,Dairy,30.0,5,0,Card,Regular,5.0,150.0
+INV11355,2025-09-02,Thrissur,Tomato 1kg,Fruits & Veg,40.0,7,0,UPI,Regular,2.0,280.0
+INV11356,2025-10-01,Kochi,Tea Powder 500g,Grocery,190.0,5,15,UPI,New,2.0,807.5
+INV11357,2025-12-07,Thiruvananthapuram,Tea Powder 500g,Grocery,190.0,3,10,UPI,Regular,2.0,513.0
+INV11363,2025-02-09,Thiruvananthapuram,Detergent 1kg,Household,130.0,4,15,UPI,Regular,1.0,442.0
+INV11364,2025-11-01,Thrissur,Soft Drink 2L,Beverages,95.0,3,0,Cash,New,5.0,285.0
+INV11365,2025-09-22,Kochi,Detergent 1kg,Household,130.0,7,15,Card,Regular,5.0,773.5
+INV11366,2025-04-16,Thrissur,Dishwash Liquid,Household,99.0,2,10,Cash,Regular,5.0,178.2
+INV11378,2025-12-24,Kozhikode,Butter 100g,Dairy,58.0,6,5,UPI,Regular,2.0,330.6
+INV11380,2025-09-27,Thrissur,Butter 100g,Dairy,58.0,7,5,Card,Wholesale,4.0,385.7
+INV11382,2025-08-21, Thrissur ,Rice - Jeerakasala 1kg,Grocery,140.0,4,0,Cash,Wholesale,4.0,560.0
+INV11385,06/04/2025,Thiruvananthapuram,Sugar 1kg,Grocery,48.0,2,5,Cash,Regular,1.0,91.2
+INV11386,2025-05-22,Thrissur,Floor Cleaner 1L,Household,175.0,4,0,Cash,Regular,4.0,700.0
+INV11389,2025-09-26,Thiruvananthapuram,Tomato 1kg,Fruits & Veg,40.0,2,15,Cash,New,1.0,68.0
+INV11390,2025-04-16,Thrissur,Coconut Oil 1L,Grocery,240.0,6,15,Cash,Wholesale,2.0,1224.0
+INV11391,2025-03-30,Thrissur,Soft Drink 2L,Beverages,95.0,1,0,UPI,Regular,5.0,95.0
+INV11392,2025-09-30,Thrissur,Biscuits Pack,Snacks,25.0,3,15,Cash,New,1.0,63.75
+INV11393,2025-10-15,Kozhikode,Soap,Personal Care,38.0,2,0,cash,Regular,1.0,76.0
+INV11396,2025-08-28,Kozhikode,Mixture 250g,Snacks,70.0,7,10,Cash,New,1.0,441.0
+INV11398,2025-04-13,Thiruvananthapuram,Mango 1kg,Fruits & Veg,90.0,6,10,Cash,Regular,4.0,486.0
+INV11400,2025-09-04,Thrissur,Rice - Matta 5kg,Grocery,285.0,1,5,UPI,New,4.0,270.75
+INV11402,2025-03-29,Kochi,Dishwash Liquid,Household,99.0,6,5,Cash,Regular,1.0,564.3
+INV11406,2025-04-23,Thrissur,Banana (Nendran) 1kg,Fruits & Veg,60.0,1,0,UPI,Regular,2.0,60.0
+INV11411,2025-04-01,Thrissur,Milk 500ml,Dairy,30.0,1,0,Cash,Regular,5.0,30.0
+INV11412,2025-08-14,Thrissur,Paneer 200g,Dairy,95.0,3,0,UPI,Wholesale,1.0,285.0
+INV11415,2025-08-27,Thrissur,Soap,Personal Care,38.0,4,10,UPI,New,5.0,136.8
+INV11417,2025-08-19,Thrissur,Butter 100g,Dairy,58.0,6,0,Cash,New,5.0,348.0
+INV11418,2025-09-19,Kozhikode,Rice - Jeerakasala 1kg,Grocery,140.0,1,15,Card,Regular,2.0,119.0
+INV11421,2025-12-07,Kozhikode,Shampoo 180ml,Personal Care,150.0,4,0,UPI,New,5.0,600.0
+INV11423,2025-07-20,Thiruvananthapuram,Banana (Nendran) 1kg,Fruits & Veg,60.0,7,0,UPI,Regular,5.0,420.0
+INV11424,2025-04-26,Thrissur,Murukku 200g,Snacks,65.0,4,15,cash,Regular,3.0,221.0
+INV11428,2025-12-29,Thrissur,Coffee Powder 200g,Beverages,160.0,5,0,Cash,Regular,2.0,800.0
+INV11429,2025-09-28,Kozhikode,Banana (Nendran) 1kg,Fruits & Veg,60.0,5,15,Cash,Wholesale,5.0,255.0
+INV11430,19/01/2025,Thrissur,Sugar 1kg,Grocery,48.0,1,5,UPI,Wholesale,3.0,45.6
+INV11433,2025-03-29,Thrissur,Onion 1kg,Fruits & Veg,45.0,4,0,UPI,Regular,2.0,180.0
+INV11437,2025-10-12,Thrissur,Coffee Powder 200g,Beverages,160.0,1,5,upi,Regular,5.0,152.0
+INV11440,2025-09-04,Thiruvananthapuram,Milk 500ml,Dairy,30.0,1,5,UPI,Regular,5.0,28.5
+INV11443,2025-09-13,Kochi,Soft Drink 2L,Beverages,95.0,3,0,UPI,Regular,3.0,285.0
+INV11445,2025-08-17,Thrissur,Rice - Matta 5kg,Grocery,285.0,3,0,Cash,Regular,1.0,855.0
+INV11447,2025-08-29,Kozhikode,Coconut Oil 1L,Grocery,240.0,5,5,UPI,Wholesale,5.0,1140.0
+INV11451,2025-08-24,Kozhikode,Tea Powder 500g,Grocery,190.0,6,5,Cash,Regular,5.0,1083.0
+INV11452,2025-03-10,Thrissur,Banana (Nendran) 1kg,Fruits & Veg,60.0,7,15,Card,Regular,3.0,357.0
+INV11453,2025-12-13,Kozhikode,Paneer 200g,Dairy,95.0,6,0,UPI,Regular,2.0,570.0
+INV11454,2025-09-05,Thiruvananthapuram,Mango 1kg,Fruits & Veg,90.0,5,0,UPI,Regular,5.0,450.0
+INV11457,2025-06-04,Thrissur,Banana (Nendran) 1kg,Fruits & Veg,60.0,3,0,Card,Regular,3.0,180.0
+INV11459,2025-08-01,Thrissur,Murukku 200g,Snacks,65.0,3,0,Card,Regular,1.0,195.0
+INV11461,2025-10-29,Thrissur,Biscuits Pack,Snacks,25.0,2,10,UPI,Regular,1.0,45.0
+INV11462,2025-04-08,Kochi,Biscuits Pack,Snacks,25.0,2,10,Cash,Regular,1.0,45.0
+INV11465,2025-08-11,Thiruvananthapuram,Floor Cleaner 1L,Household,175.0,1,15,UPI,Wholesale,2.0,148.75
+INV11467,2025-01-28,Kannur,Shampoo 180ml,Personal Care,150.0,6,0,UPI,New,4.0,900.0
+INV11468,2025-02-08,Kozhikode,Milk 500ml,Dairy,30.0,7,5,UPI,Regular,1.0,199.5
+INV11469,2025-06-14,Kozhikode,Banana Chips 250g,Snacks,80.0,6,0,UPI,Regular,4.0,480.0
+INV11470,2025-03-27,Kozhikode,Floor Cleaner 1L,Household,175.0,2,0,UPI,New,5.0,350.0
+INV11473,2025-11-07,Kannur,Butter 100g,Dairy,58.0,7,0,Card,Regular,3.0,406.0
+INV11478,2025-08-20,Cochin,Curd 400g,Dairy,35.0,7,0,UPI,Regular,4.0,245.0
+INV11479,26/07/2025,Thrissur,Toothpaste 150g,Personal Care,95.0,2,15,UPI,Wholesale,5.0,161.5
+INV11481,2025-09-12,Thrissur,Coffee Powder 200g,Beverages,160.0,2,0,Card,New,5.0,320.0
+INV11482,2025-10-06,Kozhikode,Mango 1kg,Fruits & Veg,90.0,6,0,Card,New,5.0,540.0
+INV11486,2025-05-01,Thrissur,Coffee Powder 200g,Beverages,160.0,6,0,cash,Regular,5.0,960.0
+INV11489,2025-05-21,Thrissur,Rice - Matta 5kg,Grocery,285.0,3,0,UPI,Wholesale,1.0,855.0
+INV11490,2025-03-09,Kannur,Curd 400g,Dairy,35.0,5,0,Cash,Regular,3.0,175.0
+INV11492,2025-04-13,Kochi,Paneer 200g,Dairy,95.0,1,0,Cash,New,2.0,95.0
+INV11494,2025-12-10,Thiruvananthapuram,Biscuits Pack,Snacks,25.0,2,10,UPI,New,1.0,45.0
+INV11495,2025-10-01,Kozhikode,Rice - Matta 5kg,Grocery,285.0,7,15,Card,New,4.0,1695.75
+INV11499,2025-05-07,Kozhikode,Coconut Oil 1L,Grocery,240.0,1,15,UPI,Regular,4.0,204.0
+INV11503,2025-11-20,Thiruvananthapuram,Soap,Personal Care,38.0,6,5,UPI,Wholesale,2.0,216.6
+INV11504,2025-09-13, THIRUVANANTHAPURAM ,Biscuits Pack,Snacks,25.0,3,0,Cash,Regular,5.0,75.0
+INV11510,2025-09-03,Kochi,Tea Powder 500g,Grocery,190.0,1,0,UPI,New,1.0,190.0
+INV11522,2025-11-17,Kochi,Tomato 1kg,Fruits & Veg,40.0,1,15,UPI,Regular,1.0,34.0
+INV11525,2025-03-06,Kochi,Floor Cleaner 1L,Household,175.0,3,15,Card,Regular,1.0,446.25
+INV11528,2025-11-12,Kozhikode,Tea Powder 500g,Grocery,190.0,7,0,Cash,Regular,1.0,1330.0
+INV11530,26/04/2025,Thiruvananthapuram,Tea Powder 500g,Grocery,190.0,4,10,UPI,Regular,2.0,684.0
+INV11531,2025-12-15,Thrissur,Milk 500ml,Dairy,30.0,5,0,UPI,Regular,2.0,150.0
+INV11533,2025-09-26,Kozhikode,Banana (Nendran) 1kg,Fruits & Veg,60.0,7,15,Cash,New,1.0,357.0
+INV11534,2025-02-11,Thrissur,Murukku 200g,Snacks,65.0,3,10,Cash,Wholesale,1.0,175.5
+INV11535,2025-09-16,Thiruvananthapuram,Floor Cleaner 1L,Household,175.0,6,0,Card,Regular,1.0,1050.0
+INV11538,2025-05-29,Thrissur,Toothpaste 150g,Personal Care,95.0,3,10,UPI,Regular,5.0,256.5
+INV11539,2025-01-24,Thrissur,Coffee Powder 200g,Beverages,160.0,6,15,UPI,Wholesale,2.0,816.0
+INV11542,2025-04-21,Thiruvananthapuram,Coconut Oil 1L,Grocery,240.0,6,10,Cash,Regular,1.0,1296.0
+INV11543,2025-08-14,KOZHIKODE,Mango 1kg,Fruits & Veg,90.0,2,10,UPI,Regular,5.0,162.0
+INV11544,2025-09-06,Kochi,Murukku 200g,Snacks,65.0,7,15,cash,Regular,2.0,386.75
+INV11545,2025-11-30,Kochi,Packaged Juice 1L,Beverages,110.0,6,5,Card,Regular,5.0,627.0
+INV11546,2025-12-08,Kochi,Toothpaste 150g,Personal Care,95.0,2,5,Cash,New,5.0,180.5
+INV11547,2025-12-02,Thiruvananthapuram,Packaged Juice 1L,Beverages,110.0,7,0,UPI,Regular,3.0,770.0
+INV11549,2025-02-28,Thrissur,Murukku 200g,Snacks,65.0,3,0,UPI,Regular,2.0,195.0
+INV11550,2025-02-18,Kochi,Shampoo 180ml,Personal Care,150.0,2,15,Card,Regular,2.0,255.0
+INV11551,2025-03-16,Thiruvananthapuram,Rice - Matta 5kg,Grocery,285.0,3,0,Cash,Regular,4.0,855.0
+INV11552,2025-12-20,Kozhikode,Tomato 1kg,Fruits & Veg,40.0,1,0,UPI,Regular,1.0,40.0
+INV11554,2025-06-01,Thiruvananthapuram,Shampoo 180ml,Personal Care,150.0,5,15,UPI,Regular,2.0,637.5
+INV11556,2025-10-14,Thiruvananthapuram,Soap,Personal Care,38.0,4,0,Cash,Regular,2.0,152.0
+INV11557,2025-04-14,Thrissur,Dishwash Liquid,Household,99.0,3,0,Cash,New,3.0,297.0
+INV11560,2025-01-07,Kochi,Mango 1kg,Fruits & Veg,90.0,1,5,UPI,Regular,5.0,85.5
+INV11562,2025-03-27,Kozhikode,Toothpaste 150g,Personal Care,95.0,7,5,Card,New,3.0,631.75
+INV11563,2025-07-28,Kannur,Banana (Nendran) 1kg,Fruits & Veg,60.0,7,15,Cash,Regular,5.0,357.0
+INV11571,2025-10-19,Kannur,Tea Powder 500g,Grocery,190.0,1,5,Cash,Regular,3.0,180.5
+INV11572,2025-05-25,Kochi,Coconut Oil 1L,Grocery,240.0,6,0,UPI,Regular,5.0,1440.0
+INV11574,09/03/2025,Kozhikode,Banana (Nendran) 1kg,Fruits & Veg,60.0,7,0,UPI,New,5.0,420.0
+INV11575,2025-08-24,Calicut,Murukku 200g,Snacks,65.0,7,0,Cash,Wholesale,2.0,455.0
+INV11576,2025-09-29,Kochi,Floor Cleaner 1L,Household,175.0,6,0,UPI,New,4.0,1050.0
+INV11577,2025-05-21,Kochi,Soap,Personal Care,38.0,6,5,Card,New,4.0,216.6
+INV11578,2025-09-06,Kozhikode,Tea Powder 500g,Grocery,190.0,6,5,UPI,Regular,2.0,1083.0
+INV11579,2025-09-05,Kochi,Coconut Oil 1L,Grocery,240.0,7,15,Cash,Regular,3.0,1428.0
+INV11580,2025-04-22,Thiruvananthapuram,Paneer 200g,Dairy,95.0,4,5,Cash,Regular,5.0,361.0
+INV11582,2025-03-30,THRISSUR,Rice - Jeerakasala 1kg,Grocery,140.0,6,0,Cash,New,3.0,840.0
+INV11583,2025-06-07,Kochi,Atta 5kg,Grocery,260.0,1,0,Cash,Regular,4.0,260.0
+INV11585,2025-12-02,Kochi,Murukku 200g,Snacks,65.0,3,0,UPI,Regular,2.0,195.0
+INV11586,2025-09-27,Kannur,Coffee Powder 200g,Beverages,160.0,1,0,upi,Regular,3.0,160.0
+INV11587,2025-02-14,Kozhikode,Soap,Personal Care,38.0,2,10,Cash,Regular,5.0,68.4
+INV11589,2025-04-01,Thrissur,Tea Powder 500g,Grocery,190.0,7,5,UPI,Regular,4.0,1263.5
+INV11590,2025-06-17,THIRUVANANTHAPURAM,Paneer 200g,Dairy,95.0,6,0,Cash,Regular,2.0,570.0
+INV11591,2025-02-25,THRISSUR,Mango 1kg,Fruits & Veg,90.0,1,0,Cash,New,1.0,90.0
+INV11592,2025-09-17,KOZHIKODE,Curd 400g,Dairy,35.0,5,0,UPI,New,1.0,175.0
+INV11593,2025-02-21,Kochi,Shampoo 180ml,Personal Care,150.0,5,10,UPI,Regular,5.0,675.0
+INV11596,2025-01-18,Thrissur,Milk 500ml,Dairy,30.0,7,0,Cash,Regular,1.0,210.0
+INV11597,2025-11-01,Thiruvananthapuram,Tea Powder 500g,Grocery,190.0,4,0,UPI,Regular,4.0,760.0
+INV11598,2025-05-30,Thrissur,Shampoo 180ml,Personal Care,150.0,5,0,UPI,New,3.0,750.0
+INV11599,2025-04-14,Thrissur,Biscuits Pack,Snacks,25.0,4,5,UPI,Regular,4.0,95.0
+INV11603,2025-06-14,KOCHI,Biscuits Pack,Snacks,25.0,6,5,Cash,Regular,2.0,142.5
+INV11606,2025-09-27,Thrissur,Rice - Matta 5kg,Grocery,285.0,6,15,UPI,Regular,5.0,1453.5
+INV11607,2025-05-06,Kochi,Biscuits Pack,Snacks,25.0,6,0,Cash,Regular,3.0,150.0
+INV11608,2025-07-11,Thiruvananthapuram,Soap,Personal Care,38.0,4,15,UPI,Regular,3.0,129.2
+INV11609,2025-02-10,Thiruvananthapuram,Paneer 200g,Dairy,95.0,5,15,UPI,Regular,3.0,403.75
+INV11611,24/09/2025,Kozhikode,Sugar 1kg,Grocery,48.0,3,0,UPI,Regular,4.0,144.0
+INV11612,2025-09-03,Kochi,Toothpaste 150g,Personal Care,95.0,6,15,UPI,Regular,3.0,484.5
+INV11613,2025-09-08,Thiruvananthapuram,Floor Cleaner 1L,Household,175.0,7,0,Cash,Wholesale,1.0,1225.0
+INV11614,2025-10-17,Kozhikode,Toothpaste 150g,Personal Care,95.0,5,10,Cash,Wholesale,1.0,427.5
+INV11615,2025-04-25,Kochi,Mixture 250g,Snacks,70.0,6,0,Card,New,3.0,420.0
+INV11616,2025-09-01, Kochi ,Shampoo 180ml,Personal Care,150.0,6,15,UPI,Regular,2.0,765.0
+INV11621,2025-04-13,Kannur,Banana (Nendran) 1kg,Fruits & Veg,60.0,6,10,UPI,Wholesale,5.0,324.0
+INV11622,2025-09-29,Kozhikode,Coffee Powder 200g,Beverages,160.0,4,15,Cash,Regular,5.0,544.0
+INV11626,2025-09-16,Thrissur,Curd 400g,Dairy,35.0,5,0,UPI,Regular,3.0,175.0
+INV11627,2025-12-16,Kannur,Floor Cleaner 1L,Household,175.0,4,10,UPI,Regular,5.0,630.0
+INV11628,18/12/2025,Kannur,Detergent 1kg,Household,130.0,6,0,Cash,Regular,4.0,780.0
+INV11629,2025-09-17,Thrissur,Coconut Oil 1L,Grocery,240.0,4,10,UPI,Regular,5.0,864.0
+INV11631,2025-12-21,Thrissur,Tomato 1kg,Fruits & Veg,40.0,5,0,UPI,Regular,2.0,200.0
+INV11632,2025-10-04,Thrissur,Banana (Nendran) 1kg,Fruits & Veg,60.0,6,10,Cash,New,4.0,324.0
+INV11635,2025-03-15,Kochi,Atta 5kg,Grocery,260.0,3,10,Cash,New,1.0,702.0
+INV11638,2025-04-30,Kozhikode,Mango 1kg,Fruits & Veg,90.0,3,5,Cash,Regular,4.0,256.5
+INV11642,2025-10-12,Kochi,Butter 100g,Dairy,58.0,5,0,UPI,Wholesale,1.0,290.0
+INV11645,2025-08-02,Kochi,Dishwash Liquid,Household,99.0,4,0,UPI,Wholesale,2.0,396.0
+INV11652,2025-02-06,Thiruvananthapuram,Atta 5kg,Grocery,260.0,2,5,Cash,Wholesale,5.0,494.0
+INV11653,2025-05-17,THRISSUR,Butter 100g,Dairy,58.0,4,0,Card,Wholesale,1.0,232.0
+INV11654,2025-12-06,Thiruvananthapuram,Dishwash Liquid,Household,99.0,5,0,Cash,Regular,5.0,495.0
+INV11657,2025-08-08,Kochi,Dishwash Liquid,Household,99.0,3,0,Cash,Regular,2.0,297.0
+INV11658,2025-11-08,Kannur,Mixture 250g,Snacks,70.0,4,5,Cash,Regular,3.0,266.0
+INV11659,2025-06-29,Thiruvananthapuram,Tomato 1kg,Fruits & Veg,40.0,4,0,Card,New,2.0,160.0
+INV11661,17/08/2025,Kochi,Soap,Personal Care,38.0,3,15,Cash,New,4.0,96.9
+INV11662,2025-05-17,Thiruvananthapuram,Soap,Personal Care,38.0,5,0,Cash,Wholesale,3.0,190.0
+INV11664,2025-12-04,Kochi,Detergent 1kg,Household,130.0,3,10,UPI,New,3.0,351.0
+INV11665,2025-09-22, Kannur ,Packaged Juice 1L,Beverages,110.0,6,10,UPI,New,3.0,594.0
+INV11667,2025-11-01,Thiruvananthapuram,Toothpaste 150g,Personal Care,95.0,3,5,UPI,Regular,3.0,270.75
+INV11668,2025-04-27,Thrissur,Coffee Powder 200g,Beverages,160.0,5,5,UPI,Regular,5.0,760.0
+INV11673,2025-10-11,Kannur,Rice - Jeerakasala 1kg,Grocery,140.0,7,15,UPI,Regular,5.0,833.0
+INV11674,2025-07-07,Kozhikode,Mixture 250g,Snacks,70.0,7,15,Card,Regular,1.0,416.5
+INV11675,2025-12-01,THRISSUR,Murukku 200g,Snacks,65.0,7,15,Cash,New,5.0,386.75
+INV11676,2025-10-11,Thrissur,Soft Drink 2L,Beverages,95.0,4,0,Cash,Regular,1.0,380.0
+INV11679,2025-05-31,Kochi,Sugar 1kg,Grocery,48.0,1,15,UPI,Regular,4.0,40.8
+INV11687,2025-12-20,Kozhikode,Rice - Matta 5kg,Grocery,285.0,5,10,UPI,New,1.0,1282.5
+INV11688,2025-09-26,Kochi,Atta 5kg,Grocery,260.0,4,0,Card,New,4.0,1040.0
+INV11691,2025-08-02,Kozhikode,Tea Powder 500g,Grocery,190.0,1,10,UPI,Regular,4.0,171.0
+INV11693,2025-12-27,Kozhikode,Floor Cleaner 1L,Household,175.0,5,0,UPI,Regular,3.0,875.0
+INV11694,05/12/2025,Kochi,Murukku 200g,Snacks,65.0,7,0,Cash,Regular,4.0,455.0
+INV11697,2025-12-02,THRISSUR,Soft Drink 2L,Beverages,95.0,5,0,UPI,Regular,3.0,475.0
+INV11698,2025-04-13,Kozhikode,Butter 100g,Dairy,58.0,1,0,UPI,New,1.0,58.0
+INV11704,2025-03-06,Kochi,Soft Drink 2L,Beverages,95.0,7,0,UPI,Regular,2.0,665.0
+INV11705,2025-02-07,Trivandrum,Banana (Nendran) 1kg,Fruits & Veg,60.0,1,15,Cash,New,5.0,51.0
+INV11706,2025-02-22,Kannur,Coffee Powder 200g,Beverages,160.0,1,15,UPI,Regular,1.0,136.0
+INV11707,2025-05-15,Kochi,Paneer 200g,Dairy,95.0,7,0,Cash,Regular,1.0,665.0
+INV11708,2025-06-11, Thrissur ,Banana (Nendran) 1kg,Fruits & Veg,60.0,2,0,UPI,New,3.0,120.0
+INV11709,2025-02-21,Kannur,Paneer 200g,Dairy,95.0,3,15,UPI,Regular,5.0,242.25
+INV11710,2025-03-18,Thrissur,Soap,Personal Care,38.0,1,5,UPI,Regular,1.0,36.1
+INV11711,2025-01-01,Kochi,Toothpaste 150g,Personal Care,95.0,5,0,UPI,Regular,5.0,475.0
+INV11714,2025-12-23,Thiruvananthapuram,Floor Cleaner 1L,Household,175.0,5,10,UPI,Regular,3.0,787.5
+INV11716,2025-09-26,Thiruvananthapuram,Atta 5kg,Grocery,260.0,4,0,UPI,Wholesale,4.0,1040.0
+INV11718,2025-07-26,Thrissur,Coconut Oil 1L,Grocery,240.0,4,0,UPI,Regular,1.0,960.0
+INV11719,2025-11-26,Thiruvananthapuram,Coconut Oil 1L,Grocery,240.0,7,10,UPI,Regular,5.0,1512.0
+INV11723,2025-12-09,Thrissur,Murukku 200g,Snacks,65.0,4,15,UPI,Regular,4.0,221.0
+INV11724,2025-10-10,Kozhikode,Butter 100g,Dairy,58.0,1,0,Cash,Regular,2.0,58.0
+INV11725,2025-10-20,Kozhikode,Rice - Jeerakasala 1kg,Grocery,140.0,3,15,UPI,New,2.0,357.0
+INV11726,2025-08-29,Kannur,Soap,Personal Care,38.0,5,10,Cash,Regular,4.0,171.0
+INV11731,2025-02-02,Kochi,Mango 1kg,Fruits & Veg,90.0,5,0,UPI,Regular,1.0,450.0
+INV11732,2025-12-06,Kochi,Curd 400g,Dairy,35.0,3,15,UPI,New,1.0,89.25
+INV11733,2025-10-15,Kochi,Tomato 1kg,Fruits & Veg,40.0,3,10,UPI,Regular,2.0,108.0
+INV11734,2025-09-29,Thrissur,Tea Powder 500g,Grocery,190.0,6,10,UPI,New,2.0,1026.0
+INV11736,27/09/2025,Kochi,Mango 1kg,Fruits & Veg,90.0,6,15,Card,Regular,1.0,459.0
+INV11737,2025-04-18,Thiruvananthapuram,Tomato 1kg,Fruits & Veg,40.0,1,0,UPI,New,3.0,40.0
+INV11738,2025-01-07,Kozhikode,Biscuits Pack,Snacks,25.0,1,0,Card,Wholesale,1.0,25.0
+INV11739,2025-12-31,Kozhikode,Banana (Nendran) 1kg,Fruits & Veg,60.0,2,5,UPI,New,2.0,114.0
+INV11741,2025-01-21,Thiruvananthapuram,Curd 400g,Dairy,35.0,5,5,Card,New,1.0,166.25
+INV11743,2025-06-24,Kozhikode,Banana (Nendran) 1kg,Fruits & Veg,60.0,4,15,Cash,Wholesale,2.0,204.0
+INV11744,2025-01-07,Kannur,Packaged Juice 1L,Beverages,110.0,3,0,Card,New,2.0,330.0
+INV11745,2025-03-30, Kozhikode ,Toothpaste 150g,Personal Care,95.0,5,15,Card,Regular,4.0,403.75
+INV11747,2025-02-03,Kochi,Soft Drink 2L,Beverages,95.0,4,10,UPI,New,1.0,342.0
+INV11748,2025-04-27,Thiruvananthapuram,Soft Drink 2L,Beverages,95.0,2,10,Cash,Regular,1.0,171.0
+INV11749,2025-03-19,Kannur,Mixture 250g,Snacks,70.0,1,10,UPI,New,5.0,63.0
+INV11750,2025-08-18,Thrissur,Coconut Oil 1L,Grocery,240.0,2,0,Cash,Wholesale,4.0,480.0
+INV11755,2025-09-19,Kannur,Floor Cleaner 1L,Household,175.0,4,0,Card,New,2.0,700.0
+INV11756,2025-05-16,Kozhikode,Butter 100g,Dairy,58.0,2,0,Cash,Regular,3.0,116.0
+INV11757,2025-10-11,Kozhikode,Biscuits Pack,Snacks,25.0,1,10,UPI,Regular,5.0,22.5
+INV11758,2025-06-20,Thiruvananthapuram,Atta 5kg,Grocery,260.0,5,15,Cash,Regular,4.0,1105.0
+INV11761,2025-08-29,Thrissur,Paneer 200g,Dairy,95.0,2,10,UPI,Regular,2.0,171.0
+INV11762,2025-05-23,Kannur,Curd 400g,Dairy,35.0,3,10,Cash,New,1.0,94.5
+INV11763,2025-09-20,Kochi,Sugar 1kg,Grocery,48.0,2,10,Cash,Regular,4.0,86.4
+INV11764,2025-03-16,Thrissur,Biscuits Pack,Snacks,25.0,2,10,UPI,New,1.0,45.0
+INV11765,2025-12-12,THIRUVANANTHAPURAM,Onion 1kg,Fruits & Veg,45.0,4,0,UPI,New,3.0,180.0
+INV11766,2025-07-04,Thrissur,Butter 100g,Dairy,58.0,6,10,Card,Regular,2.0,313.2
+INV11773,2025-09-10,Kozhikode,Floor Cleaner 1L,Household,175.0,3,0,UPI,Regular,3.0,525.0
+INV11776,2025-04-20,Thrissur,Soap,Personal Care,38.0,2,0,UPI,Regular,5.0,76.0
+INV11777,2025-07-03,Thrissur,Sugar 1kg,Grocery,48.0,6,0,UPI,Regular,4.0,288.0
+INV11782,2025-05-29,Kochi,Atta 5kg,Grocery,260.0,7,5,UPI,Regular,5.0,1729.0
+INV11785,2025-05-05,Thiruvananthapuram,Rice - Matta 5kg,Grocery,285.0,3,15,UPI,Regular,5.0,726.75
+INV11786,2025-07-28,Kochi,Biscuits Pack,Snacks,25.0,4,5,UPI,New,5.0,95.0
+INV11789,2025-11-03,Kochi,Paneer 200g,Dairy,95.0,4,0,UPI,Wholesale,1.0,380.0
+INV11791,2025-06-23, Kozhikode ,Tomato 1kg,Fruits & Veg,40.0,5,15,Cash,Regular,3.0,170.0
+INV11793,2025-12-10,Kozhikode,Soap,Personal Care,38.0,3,0,UPI,Regular,5.0,114.0
+INV11797,2025-10-08,Thiruvananthapuram,Toothpaste 150g,Personal Care,95.0,4,0,UPI,New,3.0,380.0
+INV11798,2025-04-21,Kozhikode,Butter 100g,Dairy,58.0,4,0,UPI,Regular,3.0,232.0
+INV11801,2025-02-20,Thrissur,Atta 5kg,Grocery,260.0,2,10,Card,Regular,3.0,468.0
+INV11805,2025-12-07,Kochi,Biscuits Pack,Snacks,25.0,-1,0,Card,Regular,4.0,125.0
+INV11806,2025-12-21,Thrissur,Tea Powder 500g,Grocery,190.0,1,15,Card,Regular,2.0,161.5
+INV11809,2025-02-12,Kochi,Banana (Nendran) 1kg,Fruits & Veg,60.0,6,0,Cash,Regular,1.0,360.0
+INV11810,2025-02-04,Kozhikode,Murukku 200g,Snacks,65.0,4,10,Cash,New,4.0,234.0
+INV11817,2025-01-21,Trivandrum,Coffee Powder 200g,Beverages,160.0,5,10,UPI,Regular,3.0,720.0
+INV11821,2025-09-13,Kochi,Curd 400g,Dairy,35.0,6,0,Cash,New,1.0,210.0
+INV11828,2025-02-24,Thrissur,Coconut Oil 1L,Grocery,240.0,2,5,UPI,Regular,5.0,456.0
+INV11834,2025-06-19,Thrissur,Detergent 1kg,Household,130.0,6,0,Card,Regular,5.0,780.0
+INV11835,15/07/2025,Kochi,Packaged Juice 1L,Beverages,110.0,7,10,UPI,Wholesale,3.0,693.0
+INV11836,2025-06-24,Kochi,Paneer 200g,Dairy,95.0,6,10,UPI,Regular,5.0,513.0
+INV11838,2025-05-29,Kannur,Floor Cleaner 1L,Household,175.0,7,0,UPI,New,4.0,1225.0
+INV11839,2025-05-14,Kochi,Soap,Personal Care,38.0,2,10,UPI,New,5.0,68.4
+INV11840,2025-12-08,Thrissur,Curd 400g,Dairy,35.0,3,0,Cash,New,1.0,105.0
+INV11844,2025-10-30,Thrissur,Butter 100g,Dairy,58.0,1,0,cash,New,5.0,58.0
+INV11846,2025-03-31,Thiruvananthapuram,Rice - Matta 5kg,Grocery,285.0,6,10,Card,New,2.0,1539.0
+INV11847,2025-10-12,Kozhikode,Floor Cleaner 1L,Household,175.0,6,15,Cash,Regular,5.0,892.5
+INV11852,2025-05-02,Kozhikode,Tea Powder 500g,Grocery,190.0,2,10,Card,New,2.0,342.0
+INV11853,2025-03-22,Kozhikode,Rice - Jeerakasala 1kg,Grocery,140.0,4,15,UPI,New,3.0,476.0
+INV11854,2025-07-15,Thiruvananthapuram,Tea Powder 500g,Grocery,190.0,6,0,Cash,Regular,5.0,1140.0
+INV11855,2025-09-22,Thrissur,Murukku 200g,Snacks,65.0,6,10,UPI,New,3.0,351.0
+INV11856,2025-05-11,Thrissur,Tea Powder 500g,Grocery,190.0,6,15,UPI,Regular,5.0,969.0
+INV11857,2025-01-09,Kozhikode,Soap,Personal Care,38.0,5,15,UPI,New,1.0,161.5
+INV11858,2025-10-11,Kozhikode,Coconut Oil 1L,Grocery,240.0,7,10,Cash,Regular,4.0,1512.0
+INV11861,2025-04-25,Thrissur,Shampoo 180ml,Personal Care,150.0,1,0,UPI,Regular,4.0,150.0
+INV11862,2025-04-19,Kozhikode,Packaged Juice 1L,Beverages,110.0,7,15,UPI,Regular,4.0,654.5
+INV11867,2025-04-13,Thrissur,Paneer 200g,Dairy,95.0,5,5,UPI,Regular,3.0,451.25
+INV11869,2025-09-22,Thiruvananthapuram,Toothpaste 150g,Personal Care,95.0,1,0,Cash,New,3.0,95.0
+INV11870,2025-09-22,Kozhikode,Coffee Powder 200g,Beverages,160.0,2,5,Cash,Regular,3.0,304.0
+INV11872,26/08/2025,Kochi,Paneer 200g,Dairy,95.0,4,0,Cash,Wholesale,2.0,380.0
+INV11873,2025-01-09,Kannur,Rice - Matta 5kg,Grocery,285.0,1,0,Cash,Wholesale,5.0,285.0
+INV11875,20/06/2025,Thrissur,Curd 400g,Dairy,35.0,4,0,Cash,Regular,4.0,140.0
+INV11876,2025-04-16,KOCHI,Biscuits Pack,Snacks,25.0,3,0,Cash,Regular,2.0,75.0
+INV11879,2025-08-24,Kozhikode,Toothpaste 150g,Personal Care,95.0,7,5,Cash,Regular,1.0,631.75
+INV11882,2025-09-17, KOCHI ,Biscuits Pack,Snacks,25.0,5,0,Cash,Regular,2.0,125.0
+INV11885,2025-06-24,Kozhikode,Murukku 200g,Snacks,65.0,6,15,UPI,Regular,4.0,331.5
+INV11888,30/05/2025,Thrissur,Floor Cleaner 1L,Household,175.0,6,5,UPI,New,3.0,997.5
+INV11891,2025-02-01,Thrissur,Banana Chips 250g,Snacks,80.0,4,0,Card,New,3.0,320.0
+INV11893,2025-05-11,Kannur,Murukku 200g,Snacks,65.0,2,10,Card,Wholesale,5.0,117.0
+INV11895,2025-09-22,Thrissur,Sugar 1kg,Grocery,48.0,4,15,Cash,Regular,5.0,163.2
+INV11896,2025-09-14,Thrissur,Biscuits Pack,Snacks,25.0,5,0,Cash,Regular,1.0,125.0
+INV11899,2025-07-16,THRISSUR,Floor Cleaner 1L,Household,175.0,6,0,UPI,New,4.0,1050.0
+INV11900,2025-08-20,Thiruvananthapuram,Toothpaste 150g,Personal Care,95.0,5,0,UPI,Wholesale,1.0,475.0
+INV11903,2025-09-29,Thrissur,Coffee Powder 200g,Beverages,160.0,2,15,UPI,Regular,4.0,272.0
+INV11904,2025-09-01,Thrissur,Murukku 200g,Snacks,65.0,4,10,cash,Regular,1.0,234.0
+INV11906,31/08/2025,Kozhikode,Paneer 200g,Dairy,95.0,4,0,UPI,New,1.0,380.0
+INV11907,2025-09-19,KOZHIKODE,Floor Cleaner 1L,Household,175.0,6,0,UPI,Regular,2.0,1050.0
+INV11912,2025-05-21,Kozhikode,Butter 100g,Dairy,58.0,5,5,Cash,Regular,3.0,275.5
+INV11913,2025-12-29,Thiruvananthapuram,Detergent 1kg,Household,130.0,6,0,UPI,Regular,4.0,780.0
+INV11915,2025-06-20,Kochi,Mixture 250g,Snacks,70.0,1,0,Cash,Regular,3.0,70.0
+INV11917,2025-08-17,Kochi,Murukku 200g,Snacks,65.0,3,15,UPI,Regular,4.0,165.75
+INV11918,2025-12-07,Kozhikode,Sugar 1kg,Grocery,48.0,5,0,Card,New,4.0,240.0
+INV11919,2025-08-10,Kozhikode,Rice - Jeerakasala 1kg,Grocery,140.0,3,10,Cash,Regular,3.0,378.0
+INV11924,2025-12-08,Kochi,Milk 500ml,Dairy,30.0,2,5,Cash,New,2.0,57.0
+INV11925,2025-10-09,Kannur,Curd 400g,Dairy,35.0,7,0,UPI,Regular,5.0,245.0
+INV11926,2025-02-21,Kochi,Onion 1kg,Fruits & Veg,45.0,4,0,UPI,Regular,2.0,180.0
+INV11928,2025-09-16, Kannur ,Soft Drink 2L,Beverages,95.0,3,0,UPI,New,1.0,285.0
+INV11930,2025-06-12,Thrissur,Tomato 1kg,Fruits & Veg,40.0,5,0,UPI,Regular,2.0,200.0
+INV11931,2025-06-15,Kochi,Rice - Jeerakasala 1kg,Grocery,140.0,2,0,UPI,New,1.0,280.0
+INV11932,2025-11-08,Thiruvananthapuram,Atta 5kg,Grocery,260.0,2,0,UPI,New,4.0,520.0
+INV11933,2025-08-27,Thrissur,Dishwash Liquid,Household,99.0,1,10,UPI,Regular,3.0,89.1
+INV11934,2025-09-27,Kozhikode,Paneer 200g,Dairy,95.0,6,15,Cash,Wholesale,3.0,484.5
+INV11936,2025-06-30,Thrissur,Tomato 1kg,Fruits & Veg,40.0,3,0,Cash,New,5.0,120.0
+INV11938,2025-11-09,Kochi,Mixture 250g,Snacks,70.0,5,0,UPI,New,4.0,350.0
+INV11939,2025-02-25,Thrissur,Paneer 200g,Dairy,95.0,5,10,UPI,Regular,2.0,427.5
+INV11943,2025-12-18,Kozhikode,Atta 5kg,Grocery,260.0,3,0,Cash,Regular,2.0,780.0
+INV11944,2025-01-09,Kozhikode,Mango 1kg,Fruits & Veg,90.0,1,0,Cash,New,1.0,90.0
+INV11945,2025-09-10,Thiruvananthapuram,Toothpaste 150g,Personal Care,95.0,6,10,UPI,Regular,1.0,513.0
+INV11946,2025-12-13,Kochi,Curd 400g,Dairy,35.0,4,0,Cash,Regular,4.0,140.0
+INV11947,2025-04-14,KOCHI,Coffee Powder 200g,Beverages,160.0,4,0,Card,Regular,5.0,640.0
+INV11950,2025-05-04,Kozhikode,Rice - Jeerakasala 1kg,Grocery,140.0,7,0,UPI,Regular,2.0,980.0
+INV11951,2025-09-20,Kozhikode,Toothpaste 150g,Personal Care,95.0,5,5,UPI,Regular,1.0,451.25
+INV11953,2025-04-29,Kannur,Shampoo 180ml,Personal Care,150.0,5,10,Card,Regular,5.0,675.0
+INV11954,2025-07-05,Thrissur,Detergent 1kg,Household,130.0,6,10,UPI,Regular,5.0,702.0
+INV11955,2025-01-25,Kochi,Milk 500ml,Dairy,30.0,3,15,UPI,Regular,5.0,76.5
+INV11957,2025-02-04,Kozhikode,Rice - Jeerakasala 1kg,Grocery,140.0,6,10,Cash,Regular,5.0,756.0
+INV11959,2025-12-16,Thrissur,Toothpaste 150g,Personal Care,95.0,1,10,Card,New,5.0,85.5
+INV11965,2025-06-21,Kochi,Tea Powder 500g,Grocery,190.0,2,10,Cash,New,4.0,342.0
+INV11968,2025-07-22,Thrissur,Milk 500ml,Dairy,30.0,3,0,UPI,Regular,5.0,90.0
+INV11969,2025-08-04,Thrissur,Floor Cleaner 1L,Household,175.0,5,0,UPI,Regular,3.0,875.0
+INV11970,2025-08-31,Kochi,Soft Drink 2L,Beverages,95.0,5,0,UPI,Regular,2.0,475.0
+INV11973,2025-09-30,Kozhikode,Toothpaste 150g,Personal Care,95.0,4,15,UPI,New,3.0,323.0
+INV11974,2025-09-13,Kozhikode,Soap,Personal Care,38.0,1,0,UPI,Regular,4.0,38.0
+INV11977,2025-12-09,Thiruvananthapuram,Paneer 200g,Dairy,95.0,4,0,Cash,Regular,2.0,380.0
+INV11978,2025-06-18,Thrissur,Tea Powder 500g,Grocery,190.0,7,5,UPI,New,5.0,1263.5
+INV11979,2025-09-10,Thrissur,Curd 400g,Dairy,35.0,7,0,UPI,Regular,5.0,245.0
+INV11980,2025-10-05,Thiruvananthapuram,Banana (Nendran) 1kg,Fruits & Veg,60.0,4,10,Card,Regular,2.0,216.0
+INV11981,2025-11-04,Thrissur,Tomato 1kg,Fruits & Veg,40.0,5,5,UPI,New,2.0,190.0
+INV11982,2025-04-11,Kochi,Atta 5kg,Grocery,260.0,1,0,UPI,Regular,2.0,260.0
+INV11987,2025-08-27,Thiruvananthapuram,Paneer 200g,Dairy,95.0,4,10,Card,New,3.0,342.0
+INV11988,2025-09-05,Kozhikode,Curd 400g,Dairy,35.0,7,5,Cash,Wholesale,1.0,232.75
+INV11989,2025-11-07,Thiruvananthapuram,Mango 1kg,Fruits & Veg,90.0,7,10,UPI,Regular,2.0,567.0
+INV11992,2025-11-08,Thiruvananthapuram,Rice - Matta 5kg,Grocery,285.0,3,0,UPI,New,1.0,855.0
+INV11994,2025-04-09,Kochi,Murukku 200g,Snacks,65.0,5,0,UPI,Wholesale,2.0,325.0
+INV11995,2025-02-28,Kochi,Tomato 1kg,Fruits & Veg,40.0,7,0,Cash,New,5.0,280.0
+INV11998,2025-02-25,THRISSUR,Floor Cleaner 1L,Household,175.0,7,5,UPI,New,2.0,1163.75
+INV11999,2025-08-02,Thrissur,Soft Drink 2L,Beverages,95.0,3,0,UPI,Regular,4.0,285.0
+INV12000,2025-04-05,Thrissur,Coconut Oil 1L,Grocery,240.0,6,0,Cash,Regular,4.0,1440.0
+INV12001,04/10/2025,Kochi,Soft Drink 2L,Beverages,95.0,4,0,Card,Regular,3.0,380.0
+INV12004,2025-09-25,Kochi,Mango 1kg,Fruits & Veg,90.0,1,10,UPI,Regular,1.0,81.0
+INV12007,2025-05-01,Kochi,Atta 5kg,Grocery,260.0,4,0,UPI,New,4.0,1040.0
+INV12009,2025-11-16,Thrissur,Detergent 1kg,Household,130.0,4,0,Card,New,4.0,520.0
+INV12010,2025-08-31,Kannur,Soft Drink 2L,Beverages,95.0,1,0,UPI,New,3.0,95.0
+INV12011,2025-12-18,Thrissur,Atta 5kg,Grocery,260.0,2,0,Cash,New,1.0,520.0
+INV12013,2025-12-09,Kochi,Biscuits Pack,Snacks,25.0,5,0,Cash,New,3.0,125.0
+INV12014,2025-01-03,KOCHI,Murukku 200g,Snacks,65.0,5,0,upi,Regular,3.0,325.0
+INV12015,2025-04-16,Thiruvananthapuram,Banana (Nendran) 1kg,Fruits & Veg,60.0,7,0,UPI,Regular,1.0,420.0
+INV12016,28/07/2025,Kannur,Coffee Powder 200g,Beverages,160.0,6,0,UPI,Regular,1.0,960.0
+INV12017,2025-12-07,Thiruvananthapuram,Banana Chips 250g,Snacks,80.0,3,0,Card,New,4.0,240.0
+INV12020,07/03/2025,Thrissur,Packaged Juice 1L,Beverages,110.0,7,0,UPI,Regular,2.0,770.0
+INV12021,2025-06-22,Thiruvananthapuram,Butter 100g,Dairy,58.0,3,15,Cash,New,1.0,147.9
+INV12022,2025-01-01,Thiruvananthapuram,Mixture 250g,Snacks,70.0,6,0,UPI,Wholesale,1.0,420.0
+INV12023,2025-09-16,Kochi,Floor Cleaner 1L,Household,175.0,7,0,Cash,Regular,2.0,1225.0
+INV12024,2025-01-25,Kannur,Mixture 250g,Snacks,70.0,5,0,Cash,New,4.0,350.0
+INV12025,2025-05-25,Thiruvananthapuram,Biscuits Pack,Snacks,25.0,7,5,Card,New,2.0,166.25
+INV12026,2025-03-04,Kochi,Soft Drink 2L,Beverages,95.0,1,0,Cash,New,2.0,95.0
+INV12028,2025-09-05,Kozhikode,Mixture 250g,Snacks,70.0,5,15,Cash,New,2.0,297.5
+INV12030,04/12/2025,Thrissur,Murukku 200g,Snacks,65.0,1,10,Cash,New,4.0,58.5
+INV12032,2025-10-31,Kannur,Curd 400g,Dairy,35.0,1,0,UPI,Regular,3.0,35.0
+INV12035,2025-08-20,Kozhikode,Coconut Oil 1L,Grocery,240.0,4,0,UPI,New,4.0,960.0
+INV12037,2025-08-09, Kannur ,Shampoo 180ml,Personal Care,150.0,4,0,Cash,Regular,1.0,600.0
+INV12038,2025-09-01,Kozhikode,Atta 5kg,Grocery,260.0,6,5,Cash,Regular,1.0,1482.0
+INV12041,2025-07-04,Kozhikode,Rice - Jeerakasala 1kg,Grocery,140.0,4,0,Cash,Regular,2.0,560.0
+INV12042,2025-12-23,Kozhikode,Banana (Nendran) 1kg,Fruits & Veg,60.0,7,10,Cash,Regular,2.0,378.0
+INV12043,2025-10-12,Kozhikode,Curd 400g,Dairy,35.0,4,5,Card,Regular,3.0,133.0
+INV12045,2025-10-13,Kozhikode,Banana (Nendran) 1kg,Fruits & Veg,60.0,6,0,UPI,Regular,4.0,360.0
+INV12049,2025-09-14,Thrissur,Packaged Juice 1L,Beverages,110.0,1,0,Card,Regular,4.0,110.0
+INV12050,2025-04-29,Kozhikode,Rice - Matta 5kg,Grocery,285.0,6,0,Card,Regular,3.0,1710.0
+INV12052,2025-06-15,Kannur,Coconut Oil 1L,Grocery,240.0,7,10,UPI,Regular,1.0,1512.0
+INV12054,2025-01-12,Kochi,Murukku 200g,Snacks,65.0,2,10,Cash,Regular,4.0,117.0
+INV12056,2025-03-31,Kannur,Coconut Oil 1L,Grocery,240.0,1,5,Card,New,4.0,228.0
+INV12061,2025-10-28, Kochi ,Mango 1kg,Fruits & Veg,90.0,3,0,Card,New,2.0,270.0
+INV12062,2025-07-16,Kannur,Butter 100g,Dairy,58.0,3,0,UPI,Regular,2.0,174.0
+INV12063,2025-05-06,Kozhikode,Banana (Nendran) 1kg,Fruits & Veg,60.0,1,15,UPI,Regular,4.0,51.0
+INV12064,2025-09-15,Kozhikode,Coffee Powder 200g,Beverages,160.0,4,0,cash,Regular,3.0,640.0
+INV12068,2025-08-30,KOZHIKODE,Tomato 1kg,Fruits & Veg,40.0,1,15,UPI,New,2.0,34.0
+INV12073,2025-08-08,Kozhikode,Sugar 1kg,Grocery,48.0,4,0,Cash,Regular,2.0,192.0
+INV12074,2025-06-08,Kannur,Butter 100g,Dairy,58.0,7,5,UPI,Regular,5.0,385.7
+INV12075,2025-06-25,Thrissur,Shampoo 180ml,Personal Care,150.0,2,0,UPI,Regular,5.0,300.0
+INV12077,2025-10-19,Thrissur,Paneer 200g,Dairy,95.0,6,15,UPI,New,1.0,484.5
+INV12079,2025-12-04,Thrissur,Tea Powder 500g,Grocery,190.0,6,0,UPI,New,4.0,1140.0
+INV12083,2025-05-30,Kochi,Dishwash Liquid,Household,99.0,6,5,UPI,Regular,1.0,564.3
+INV12086,2025-02-11,Kozhikode,Curd 400g,Dairy,35.0,6,0,UPI,Regular,1.0,210.0
+INV12087,2025-09-03,Thrissur,Packaged Juice 1L,Beverages,110.0,6,15,UPI,Regular,4.0,561.0
+INV12088,2025-07-28,Kozhikode,Packaged Juice 1L,Beverages,110.0,7,15,UPI,Regular,4.0,654.5
+INV12090,06/04/2025,Thrissur,Butter 100g,Dairy,58.0,4,15,UPI,New,3.0,197.2
+INV12091,2025-01-02,Thrissur,Milk 500ml,Dairy,30.0,4,0,Cash,Wholesale,3.0,120.0
+INV12093,2025-08-07,Thrissur,Coffee Powder 200g,Beverages,160.0,6,5,upi,Regular,2.0,912.0
+INV12094,2025-03-05,Kochi,Atta 5kg,Grocery,260.0,3,10,Card,Regular,3.0,702.0
+INV12097,2025-07-13,Kozhikode,Soap,Personal Care,38.0,3,5,Cash,Regular,4.0,108.3
+INV12098,2025-05-21,Kochi,Dishwash Liquid,Household,99.0,2,0,UPI,Wholesale,5.0,198.0
+INV12100,2025-02-04,Kochi,Toothpaste 150g,Personal Care,95.0,4,0,Card,Regular,3.0,380.0
+INV12101,2025-06-09,Thrissur,Tomato 1kg,Fruits & Veg,40.0,6,0,Card,Regular,3.0,240.0
+INV12102,2025-10-22,Thrissur,Murukku 200g,Snacks,65.0,4,15,Cash,Regular,5.0,221.0
+INV12103,2025-03-29,Kochi,Sugar 1kg,Grocery,48.0,2,0,UPI,Regular,4.0,96.0
+INV12104,2025-10-11,Thrissur,Atta 5kg,Grocery,260.0,4,0,Cash,Regular,2.0,1040.0
+INV12105,2025-12-21,Thiruvananthapuram,Murukku 200g,Snacks,65.0,1,0,UPI,Regular,5.0,65.0
+INV12106,2025-10-24,Thrissur,Rice - Jeerakasala 1kg,Grocery,140.0,6,15,Card,Regular,5.0,714.0
+INV12107,2025-08-04,Thiruvananthapuram,Butter 100g,Dairy,58.0,6,0,UPI,Wholesale,1.0,348.0
+INV12109,2025-10-09,Kozhikode,Biscuits Pack,Snacks,25.0,2,15,Cash,Wholesale,5.0,42.5
+INV12114,2025-11-11,Kozhikode,Murukku 200g,Snacks,65.0,1,10,UPI,Regular,1.0,58.5
+INV12115,2025-11-07,Kochi,Shampoo 180ml,Personal Care,150.0,5,15,UPI,Wholesale,4.0,637.5
+INV12118,2025-09-02,Thiruvananthapuram,Murukku 200g,Snacks,65.0,6,0,UPI,Regular,2.0,390.0
+INV12120,2025-10-03,Thrissur,Tomato 1kg,Fruits & Veg,40.0,7,0,Cash,New,4.0,280.0
+INV12121,2025-05-27,Thiruvananthapuram,Sugar 1kg,Grocery,48.0,6,10,Cash,Regular,1.0,259.2
+INV12123,20/09/2025,Kozhikode,Atta 5kg,Grocery,260.0,7,0,Cash,Regular,1.0,1820.0
+INV12125,2025-06-12,Thiruvananthapuram,Floor Cleaner 1L,Household,175.0,2,15,UPI,Regular,2.0,297.5
+INV12129,17/10/2025,Thiruvananthapuram,Banana (Nendran) 1kg,Fruits & Veg,60.0,6,0,UPI,New,4.0,360.0
+INV12130,2025-03-07,Kochi,Murukku 200g,Snacks,65.0,3,5,Cash,Regular,1.0,185.25
+INV12134,2025-07-24,Thrissur,Milk 500ml,Dairy,30.0,4,15,UPI,Regular,2.0,102.0
+INV12135,2025-06-15,Thiruvananthapuram,Shampoo 180ml,Personal Care,150.0,6,5,Cash,New,1.0,855.0
+INV12136,2025-11-30,Kochi,Mixture 250g,Snacks,70.0,2,0,Cash,Regular,1.0,140.0
+INV12137,2025-01-07,Thrissur,Coffee Powder 200g,Beverages,160.0,1,0,UPI,New,3.0,160.0
+INV12141,2025-11-27, Thrissur ,Paneer 200g,Dairy,95.0,3,0,UPI,Regular,1.0,285.0
+INV12142,2025-09-29,Thrissur,Shampoo 180ml,Personal Care,150.0,7,10,UPI,Regular,5.0,945.0
+INV12145,2025-07-17,Thrissur,Biscuits Pack,Snacks,25.0,3,0,Cash,New,1.0,75.0
+INV12146,2025-04-23,Kochi,Banana (Nendran) 1kg,Fruits & Veg,60.0,1,5,Cash,New,2.0,57.0
+INV12147,2025-03-29,Thiruvananthapuram,Banana Chips 250g,Snacks,80.0,1,10,Cash,Regular,5.0,72.0
+INV12148,2025-06-26,Thrissur,Shampoo 180ml,Personal Care,150.0,2,15,Cash,New,1.0,255.0
+INV12149,2025-09-24,Kochi,Coffee Powder 200g,Beverages,160.0,1,10,Cash,Regular,5.0,144.0
+INV12150,2025-09-10,Kannur,Murukku 200g,Snacks,65.0,6,5,UPI,New,2.0,370.5
+INV12151,2025-09-12,Thiruvananthapuram,Curd 400g,Dairy,35.0,1,10,Cash,New,3.0,31.5
+INV12152,01/09/2025,Thrissur,Banana Chips 250g,Snacks,80.0,4,0,Card,Wholesale,3.0,320.0
+INV12155,2025-04-16,Thiruvananthapuram,Coffee Powder 200g,Beverages,160.0,5,0,Card,Regular,4.0,800.0
+INV12156,2025-09-05,Thrissur,Murukku 200g,Snacks,65.0,3,10,UPI,Regular,1.0,175.5
+INV12159,2025-10-20,Kozhikode,Detergent 1kg,Household,130.0,1,0,UPI,Regular,4.0,130.0
+INV12162,2025-06-17,Kozhikode,Onion 1kg,Fruits & Veg,45.0,2,0,Cash,New,1.0,90.0
+INV12169,2025-12-29,Thrissur,Sugar 1kg,Grocery,48.0,7,5,upi,Wholesale,1.0,319.2
+INV12170,2025-10-08, Kochi ,Butter 100g,Dairy,58.0,1,0,Card,Regular,3.0,58.0
+INV12172,24/12/2025,Thrissur,Dishwash Liquid,Household,99.0,6,0,UPI,Regular,1.0,594.0
+INV12174,2025-09-26,Kozhikode,Rice - Jeerakasala 1kg,Grocery,140.0,4,15,Card,New,5.0,476.0
+INV12175,2025-02-14,Kozhikode,Banana Chips 250g,Snacks,80.0,1,15,Cash,Regular,2.0,68.0
+INV12176,2025-04-20,Kochi,Rice - Matta 5kg,Grocery,285.0,2,0,Cash,New,4.0,570.0
+INV12177,2025-09-26,Thrissur,Dishwash Liquid,Household,99.0,6,0,Cash,Regular,1.0,594.0
+INV12178,2025-04-22,Kannur,Tea Powder 500g,Grocery,190.0,3,0,Cash,Regular,3.0,570.0
+INV12180,2025-09-18,Kozhikode,Sugar 1kg,Grocery,48.0,6,0,UPI,New,5.0,288.0
+INV12184,2025-02-21,Kozhikode,Murukku 200g,Snacks,65.0,1,0,UPI,Wholesale,2.0,65.0
+INV12187,2025-04-14,Thiruvananthapuram,Soap,Personal Care,38.0,1,10,Card,Regular,2.0,34.2
+INV12189,07/07/2025,Kozhikode,Curd 400g,Dairy,35.0,2,5,UPI,Regular,2.0,66.5
+INV12190,2025-11-11,Kochi,Banana Chips 250g,Snacks,80.0,7,0,UPI,Regular,2.0,560.0
+INV12191,2025-03-06,Kochi,Rice - Matta 5kg,Grocery,285.0,6,5,UPI,Wholesale,4.0,1624.5
+INV12192,2025-08-06,Kochi,Butter 100g,Dairy,58.0,3,10,UPI,Wholesale,1.0,156.6
+INV12193,2025-10-31,Thiruvananthapuram,Tomato 1kg,Fruits & Veg,40.0,4,10,Cash,Regular,2.0,144.0
+INV12194,2025-06-17,Kozhikode,Tea Powder 500g,Grocery,190.0,1,5,UPI,New,2.0,180.5
+INV12195,2025-04-05,Kochi,Tea Powder 500g,Grocery,190.0,1,0,UPI,Regular,2.0,190.0
+INV12199,2025-09-07,Kochi,Toothpaste 150g,Personal Care,95.0,3,0,UPI,New,2.0,285.0
+INV12203,2025-08-27,Kochi,Paneer 200g,Dairy,95.0,6,10,Card,Regular,5.0,513.0
+INV12205,2025-02-08,Kochi,Rice - Jeerakasala 1kg,Grocery,140.0,4,10,Card,New,5.0,504.0
+INV12206,2025-07-14,Thiruvananthapuram,Detergent 1kg,Household,130.0,6,15,UPI,New,4.0,663.0
+INV12207,2025-10-27,Thrissur,Butter 100g,Dairy,58.0,2,5,UPI,Regular,4.0,110.2
+INV12209,2025-05-13,Kozhikode,Floor Cleaner 1L,Household,175.0,6,10,UPI,Regular,4.0,945.0
+INV12212,2025-01-19,Kochi,Packaged Juice 1L,Beverages,110.0,7,10,Cash,Wholesale,4.0,693.0
+INV12213,2025-10-14,Thrissur,Mango 1kg,Fruits & Veg,90.0,2,0,UPI,New,5.0,180.0
+INV12214,2025-06-29,Kochi,Biscuits Pack,Snacks,25.0,-1,15,Cash,New,3.0,148.75
+INV12216,21/08/2025,Thrissur,Banana (Nendran) 1kg,Fruits & Veg,60.0,1,0,UPI,Regular,3.0,60.0
+INV12217,2025-09-08,Kochi,Onion 1kg,Fruits & Veg,45.0,1,5,UPI,New,3.0,42.75
+INV12219,2025-05-18,Thrissur,Mango 1kg,Fruits & Veg,90.0,7,10,UPI,Regular,3.0,567.0
+INV12220,2025-07-13,Thrissur,Curd 400g,Dairy,35.0,5,0,UPI,Regular,4.0,175.0
+INV12221,2025-11-04,Thiruvananthapuram,Detergent 1kg,Household,130.0,5,0,UPI,Wholesale,5.0,650.0
+INV12224,2025-02-12,Kozhikode,Floor Cleaner 1L,Household,175.0,3,0,Cash,New,3.0,525.0
+INV12225,2025-12-17,Kozhikode,Curd 400g,Dairy,35.0,4,0,Cash,New,2.0,140.0
+INV12226,2025-03-01,Kochi,Curd 400g,Dairy,35.0,2,5,UPI,Regular,3.0,66.5
+INV12227,2025-07-05,Kochi,Packaged Juice 1L,Beverages,110.0,2,0,Cash,New,2.0,220.0
+INV12232,2025-05-08,Thiruvananthapuram,Tea Powder 500g,Grocery,190.0,6,10,UPI,Regular,3.0,1026.0
+INV12236,2025-03-17,KOCHI,Milk 500ml,Dairy,30.0,1,10,UPI,Regular,4.0,27.0
+INV12238,2025-04-19,Kochi,Murukku 200g,Snacks,65.0,7,15,Cash,Regular,2.0,386.75
+INV12241,2025-11-07,Kochi,Paneer 200g,Dairy,95.0,2,0,Card,Regular,2.0,190.0
+INV12242,2025-09-12,Kochi,Murukku 200g,Snacks,65.0,1,0,UPI,New,5.0,65.0
+INV12244,2025-09-17,Kozhikode,Milk 500ml,Dairy,30.0,3,0,UPI,New,1.0,90.0
+INV12246,30/09/2025,Thiruvananthapuram,Soap,Personal Care,38.0,5,15,Cash,Regular,1.0,161.5
+INV12247,2025-02-06,Kozhikode,Milk 500ml,Dairy,30.0,2,5,UPI,Regular,4.0,57.0
+INV12248,2025-09-17,Thiruvananthapuram,Tomato 1kg,Fruits & Veg,40.0,3,0,UPI,Regular,3.0,120.0
+INV12250,2025-04-27,Thiruvananthapuram,Mango 1kg,Fruits & Veg,90.0,1,0,UPI,Wholesale,1.0,90.0
+INV12252,2025-12-13,Kannur,Mango 1kg,Fruits & Veg,90.0,3,0,UPI,Regular,1.0,270.0
+INV12254,2025-02-23,Kochi,Atta 5kg,Grocery,260.0,2,5,UPI,Wholesale,3.0,494.0
+INV12255,2025-08-02,Kannur,Tomato 1kg,Fruits & Veg,40.0,7,0,Cash,Regular,1.0,280.0
+INV12259,2025-05-12,Kozhikode,Floor Cleaner 1L,Household,175.0,1,10,Cash,Regular,4.0,157.5
+INV12263,2025-09-06,Thrissur,Packaged Juice 1L,Beverages,110.0,3,10,Card,New,3.0,297.0
+INV12266,2025-08-26,Thrissur,Onion 1kg,Fruits & Veg,45.0,6,5,Card,Regular,3.0,256.5
+INV12270,2025-11-21,Kozhikode,Floor Cleaner 1L,Household,175.0,3,10,Card,Regular,1.0,472.5
+INV12271,2025-04-06,Thrissur,Tea Powder 500g,Grocery,190.0,6,0,UPI,Regular,1.0,1140.0
+INV12273,2025-12-16,Kochi,Dishwash Liquid,Household,99.0,2,0,Card,Regular,5.0,198.0
+INV12280,2025-07-08,KANNUR,Coffee Powder 200g,Beverages,160.0,4,0,UPI,Regular,1.0,640.0
+INV12281,2025-09-01,Kochi,Butter 100g,Dairy,58.0,5,10,UPI,New,2.0,261.0
+INV12283,2025-08-10,Thiruvananthapuram,Coffee Powder 200g,Beverages,160.0,6,10,Cash,Regular,3.0,864.0
+INV12285,2025-04-27,Thiruvananthapuram,Biscuits Pack,Snacks,25.0,6,5,UPI,Regular,4.0,142.5
+INV12286,2025-07-13,Kochi,Murukku 200g,Snacks,65.0,1,10,Cash,Regular,2.0,58.5
+INV12290,2025-12-08, Thrissur ,Soap,Personal Care,38.0,5,15,UPI,Regular,3.0,161.5
+INV12293,2025-11-03,Kochi,Rice - Jeerakasala 1kg,Grocery,140.0,3,5,Card,Regular,4.0,399.0
+INV12294,2025-01-16,Kannur,Atta 5kg,Grocery,260.0,6,0,UPI,New,5.0,1560.0
+INV12296,2025-01-04,Thrissur,Mixture 250g,Snacks,70.0,3,0,UPI,Regular,3.0,210.0
+INV12298,2025-08-11,Thiruvananthapuram,Floor Cleaner 1L,Household,175.0,7,5,UPI,Regular,4.0,1163.75
+INV12299,2025-12-09,Thiruvananthapuram,Shampoo 180ml,Personal Care,150.0,6,0,Cash,Regular,2.0,900.0
+INV12300,2025-09-30,Kannur,Detergent 1kg,Household,130.0,6,10,Cash,Regular,2.0,702.0
+INV12301,2025-04-28,Thrissur,Shampoo 180ml,Personal Care,150.0,6,0,Cash,Regular,3.0,900.0
+INV12303,2025-04-16,Kozhikode,Banana (Nendran) 1kg,Fruits & Veg,60.0,3,0,Cash,Regular,1.0,180.0
+INV12304,2025-06-11,Thrissur,Curd 400g,Dairy,35.0,6,0,UPI,New,5.0,210.0
+INV12305,2025-02-02, KOCHI ,Soft Drink 2L,Beverages,95.0,2,10,Card,Regular,4.0,171.0
+INV12306,2025-04-13,Thiruvananthapuram,Sugar 1kg,Grocery,48.0,3,10,Cash,Regular,2.0,129.6
+INV12308,2025-02-05,Kochi,Floor Cleaner 1L,Household,175.0,2,0,upi,Wholesale,2.0,350.0
+INV12309,2025-08-14,Thiruvananthapuram,Tea Powder 500g,Grocery,190.0,6,0,UPI,New,4.0,1140.0
+INV12311,2025-05-13,Kozhikode,Coffee Powder 200g,Beverages,160.0,2,0,Cash,New,2.0,320.0
+INV12313,2025-04-18,Thiruvananthapuram,Paneer 200g,Dairy,95.0,4,10,Card,Regular,4.0,342.0
+INV12315,2025-05-21,Kochi,Mixture 250g,Snacks,70.0,4,5,Cash,Regular,4.0,266.0
+INV12316,2025-02-03,Thrissur,Tea Powder 500g,Grocery,190.0,1,10,Cash,New,3.0,171.0
+INV12320,2025-03-06,Kannur,Atta 5kg,Grocery,260.0,7,0,Cash,Regular,2.0,1820.0
+INV12321,2025-09-20,Kochi,Detergent 1kg,Household,130.0,2,0,UPI,Regular,1.0,260.0
+INV12324,2025-08-19,Thiruvananthapuram,Biscuits Pack,Snacks,25.0,4,5,Card,Regular,3.0,95.0
+INV12326,2025-11-03,Kannur,Banana Chips 250g,Snacks,80.0,3,15,UPI,New,1.0,204.0
+INV12327,21/04/2025,Kochi,Soft Drink 2L,Beverages,95.0,2,0,Card,Regular,5.0,190.0
+INV12328,2025-09-02,Thrissur,Packaged Juice 1L,Beverages,110.0,4,15,Cash,Regular,5.0,374.0
+INV12330,2025-06-12,Thiruvananthapuram,Butter 100g,Dairy,58.0,7,5,Cash,New,2.0,385.7
+INV12334,2025-06-15,Kozhikode,Toothpaste 150g,Personal Care,95.0,5,5,UPI,Regular,4.0,451.25
+INV12335,2025-09-03,Kozhikode,Tea Powder 500g,Grocery,190.0,6,15,UPI,New,3.0,969.0
+INV12336,2025-10-19,Thrissur,Soap,Personal Care,38.0,4,15,Cash,Regular,1.0,129.2
+INV12339,2025-04-28,Kozhikode,Coconut Oil 1L,Grocery,240.0,1,0,Card,New,1.0,240.0
+INV12340,2025-06-28,Kannur,Murukku 200g,Snacks,65.0,5,0,UPI,Wholesale,5.0,325.0
+INV12341,2025-12-03,Thrissur,Coffee Powder 200g,Beverages,160.0,5,0,UPI,New,4.0,800.0
+INV12348,2025-11-11,Thrissur,Floor Cleaner 1L,Household,175.0,3,0,UPI,Regular,4.0,525.0
+INV12351,2025-10-06,Thrissur,Atta 5kg,Grocery,260.0,2,10,Cash,Regular,1.0,468.0
+INV12353,2025-06-19, Thrissur ,Dishwash Liquid,Household,99.0,4,0,UPI,New,4.0,396.0
+INV12356,2025-07-12,Kannur,Mixture 250g,Snacks,70.0,3,0,UPI,Regular,3.0,210.0
+INV12358,2025-08-22,Calicut,Shampoo 180ml,Personal Care,150.0,3,10,Cash,Regular,4.0,405.0
+INV12359,2025-05-31,Kannur,Paneer 200g,Dairy,95.0,7,0,Cash,New,2.0,665.0
+INV12360,2025-03-08, Kozhikode ,Curd 400g,Dairy,35.0,4,10,upi,New,3.0,126.0
+INV12361,2025-07-15,Kochi,Mango 1kg,Fruits & Veg,90.0,1,5,Cash,Regular,4.0,85.5
+INV12362,2025-11-17,Thrissur,Toothpaste 150g,Personal Care,95.0,1,5,UPI,Regular,5.0,90.25
+INV12364,2025-04-15,Kochi,Banana (Nendran) 1kg,Fruits & Veg,60.0,4,10,Cash,Wholesale,2.0,216.0
+INV12368,2025-04-13,Kochi,Milk 500ml,Dairy,30.0,5,0,UPI,Regular,3.0,150.0
+INV12371,2025-11-08,Thiruvananthapuram,Banana (Nendran) 1kg,Fruits & Veg,60.0,1,15,UPI,Regular,5.0,51.0
+INV12372,2025-10-18,Thrissur,Sugar 1kg,Grocery,48.0,6,0,Cash,Regular,4.0,288.0
+INV12373,2025-04-09,Thrissur,Detergent 1kg,Household,130.0,1,0,UPI,New,4.0,130.0
+INV12378,2025-12-25,Thrissur,Banana (Nendran) 1kg,Fruits & Veg,60.0,5,0,UPI,New,4.0,300.0
+INV12380,2025-10-21,Kozhikode,Atta 5kg,Grocery,260.0,5,5,UPI,Regular,4.0,1235.0
+INV12383,2025-01-11,Kochi,Banana Chips 250g,Snacks,80.0,2,5,Cash,Wholesale,5.0,152.0
+INV12386,2025-02-16,Kannur,Onion 1kg,Fruits & Veg,45.0,2,0,Cash,Regular,4.0,90.0
+INV12387,14/05/2025,Thrissur,Onion 1kg,Fruits & Veg,45.0,4,0,Cash,Regular,1.0,180.0
+INV12389,2025-08-25,Thrissur,Packaged Juice 1L,Beverages,110.0,6,0,UPI,Regular,3.0,660.0
+INV12391,2025-10-13,Thrissur,Mango 1kg,Fruits & Veg,90.0,1,15,UPI,New,1.0,76.5
+INV12392,2025-06-23,Kochi,Detergent 1kg,Household,130.0,3,10,Card,Wholesale,5.0,351.0
+INV12393,2025-11-22,Thiruvananthapuram,Rice - Jeerakasala 1kg,Grocery,140.0,4,5,Cash,Wholesale,1.0,532.0
+INV12394,2025-05-26,Thrissur,Onion 1kg,Fruits & Veg,45.0,6,5,Cash,Wholesale,4.0,256.5
+INV12396,2025-05-31,Kochi,Detergent 1kg,Household,130.0,2,5,Cash,Regular,1.0,247.0
+INV12399,2025-04-08,Kochi,Banana (Nendran) 1kg,Fruits & Veg,60.0,7,0,Cash,Regular,1.0,420.0
+INV12402,2025-04-27,Kozhikode,Milk 500ml,Dairy,30.0,4,5,cash,New,4.0,114.0
+INV12409,2025-08-02,Thrissur,Onion 1kg,Fruits & Veg,45.0,3,5,UPI,New,3.0,128.25
+INV12410,2025-12-29,Kannur,Milk 500ml,Dairy,30.0,2,15,UPI,New,3.0,51.0
+INV12411,2025-12-03,Kozhikode,Packaged Juice 1L,Beverages,110.0,6,10,Cash,Regular,3.0,594.0
+INV12412,2025-07-08,Kozhikode,Milk 500ml,Dairy,30.0,5,0,Cash,Regular,1.0,150.0
+INV12414,2025-02-28,Thrissur,Floor Cleaner 1L,Household,175.0,3,0,UPI,Regular,3.0,525.0
+INV12415,2025-10-12,Thrissur,Mango 1kg,Fruits & Veg,90.0,1,15,UPI,Regular,2.0,76.5
+INV12420,2025-03-04,Thrissur,Shampoo 180ml,Personal Care,150.0,6,0,UPI,Regular,4.0,900.0
+INV12421,2025-07-10,Thrissur,Milk 500ml,Dairy,30.0,4,0,Cash,Regular,5.0,120.0
+INV12422,2025-02-24,Kozhikode,Sugar 1kg,Grocery,48.0,1,0,Card,Regular,5.0,48.0
+INV12427,2025-04-26,Kochi,Tomato 1kg,Fruits & Veg,40.0,5,0,Cash,New,2.0,200.0
+INV12428,2025-09-04,Kochi,Milk 500ml,Dairy,30.0,5,15,Cash,New,3.0,127.5
+INV12429,2025-12-06,Kochi,Atta 5kg,Grocery,260.0,7,10,UPI,Regular,1.0,1638.0
+INV12430,2025-10-18,Thiruvananthapuram,Milk 500ml,Dairy,30.0,2,0,Cash,New,3.0,60.0
+INV12431,2025-02-05,Kochi,Paneer 200g,Dairy,95.0,2,15,UPI,New,1.0,161.5
+INV12432,2025-03-14,THRISSUR,Rice - Matta 5kg,Grocery,285.0,2,5,UPI,Regular,5.0,541.5
+INV12433,2025-04-24,Kochi,Rice - Matta 5kg,Grocery,285.0,5,0,UPI,Regular,2.0,1425.0
+INV12434,2025-10-13,Kochi,Banana Chips 250g,Snacks,80.0,4,0,UPI,Regular,1.0,320.0
+INV12435,2025-02-08,Kochi,Rice - Matta 5kg,Grocery,285.0,3,0,Cash,New,3.0,855.0
+INV12438,2025-12-28,Kannur,Rice - Matta 5kg,Grocery,285.0,2,0,Cash,Regular,4.0,570.0
+INV12439,2025-10-26,Kozhikode,Onion 1kg,Fruits & Veg,45.0,4,0,Cash,Regular,1.0,180.0
+INV12440,2025-02-18,Kozhikode,Onion 1kg,Fruits & Veg,45.0,4,0,UPI,Regular,2.0,180.0
+INV12441,2025-09-07,Thiruvananthapuram,Tomato 1kg,Fruits & Veg,40.0,3,15,Cash,Regular,5.0,102.0
+INV12442,2025-10-12,Kochi,Onion 1kg,Fruits & Veg,45.0,4,5,Cash,New,1.0,171.0
+INV12446,2025-01-28,Kochi,Butter 100g,Dairy,58.0,4,10,UPI,New,2.0,208.8
+INV12449,2025-09-29,Kochi,Soft Drink 2L,Beverages,95.0,4,0,UPI,Regular,4.0,380.0
+INV12450,2025-01-04,Thiruvananthapuram,Tomato 1kg,Fruits & Veg,40.0,4,5,Cash,New,1.0,152.0
+INV12452,2025-11-01,Kannur,Murukku 200g,Snacks,65.0,1,10,UPI,Regular,2.0,58.5
+INV12453,2025-11-26,Kozhikode,Rice - Jeerakasala 1kg,Grocery,140.0,6,0,Cash,Regular,4.0,840.0
+INV12457,2025-01-09,Kozhikode,Toothpaste 150g,Personal Care,95.0,2,0,UPI,New,1.0,190.0
+INV12458,2025-10-06,Thrissur,Detergent 1kg,Household,130.0,4,0,Cash,New,1.0,520.0
+INV12459,2025-06-13,Kochi,Butter 100g,Dairy,58.0,4,0,Cash,New,2.0,232.0
+INV12461,31/03/2025,Kozhikode,Coconut Oil 1L,Grocery,240.0,4,10,Card,New,1.0,864.0
+INV12464,2025-11-05,Thiruvananthapuram,Milk 500ml,Dairy,30.0,4,10,UPI,Regular,5.0,108.0
+INV12465,30/09/2025,Thiruvananthapuram,Banana (Nendran) 1kg,Fruits & Veg,60.0,7,15,UPI,Wholesale,3.0,357.0
+INV12466,2025-02-15,Kannur,Butter 100g,Dairy,58.0,6,0,UPI,Wholesale,4.0,348.0
+INV12469,2025-02-23,Thrissur,Milk 500ml,Dairy,30.0,4,15,UPI,Regular,1.0,102.0
+INV12473,2025-08-01,Thrissur,Onion 1kg,Fruits & Veg,45.0,5,0,Cash,Regular,2.0,225.0
+INV12474,2025-10-04,Kozhikode,Banana (Nendran) 1kg,Fruits & Veg,60.0,3,0,UPI,New,3.0,180.0
+INV12475,2025-03-04,Kozhikode,Mango 1kg,Fruits & Veg,90.0,6,0,UPI,Wholesale,1.0,540.0
+INV12476,2025-11-17, Kozhikode ,Atta 5kg,Grocery,260.0,5,0,UPI,Regular,3.0,1300.0
+INV12477,2025-09-26,Kannur,Atta 5kg,Grocery,260.0,1,0,UPI,Regular,4.0,260.0
+INV12478,2025-03-02, Thiruvananthapuram ,Soft Drink 2L,Beverages,95.0,6,5,UPI,Regular,4.0,541.5
+INV12482,2025-12-29,Kochi,Rice - Matta 5kg,Grocery,285.0,5,0,UPI,New,1.0,1425.0
+INV12483,2025-09-03,Thiruvananthapuram,Paneer 200g,Dairy,95.0,1,15,UPI,New,1.0,80.75
+INV12484,2025-07-07,Kochi,Floor Cleaner 1L,Household,175.0,2,0,Card,Regular,1.0,350.0
+INV12485,2025-02-14,KOCHI,Curd 400g,Dairy,35.0,3,5,UPI,Regular,5.0,99.75
+INV12486,01/03/2025,Kochi,Shampoo 180ml,Personal Care,150.0,1,0,Cash,Wholesale,3.0,150.0
+INV12490,2025-10-03,Thrissur,Onion 1kg,Fruits & Veg,45.0,2,10,Cash,Regular,1.0,81.0
+INV12492,2025-09-27,Kozhikode,Milk 500ml,Dairy,30.0,1,5,Cash,Regular,2.0,28.5
+INV12495,2025-09-21,Kozhikode,Packaged Juice 1L,Beverages,110.0,5,0,UPI,Regular,2.0,550.0
+INV12499,24/06/2025,KANNUR,Tomato 1kg,Fruits & Veg,40.0,2,0,UPI,Regular,5.0,80.0
